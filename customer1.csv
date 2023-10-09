@@ -1,300 +1,1000 @@
-shipMode,customerName,segment,state,region,category,subCategory,weights
-Second Class,Claire Gute,Consumer,Kentucky,South,Furniture,Bookcases,3
-Second Class,Claire Gute,Consumer,Kentucky,South,Furniture,Chairs,3
-Second Class,Darrin Van Huff,Corporate,California,West,Office Supplies,Labels,3
-Standard Class,Sean O'Donnell,Consumer,Florida,South,Furniture,Tables,1
-Standard Class,Sean O'Donnell,Consumer,Florida,South,Office Supplies,Storage,1
-Standard Class,Brosina Hoffman,Consumer,California,West,Furniture,Furnishings,1
-Standard Class,Brosina Hoffman,Consumer,California,West,Office Supplies,Art,1
-Standard Class,Brosina Hoffman,Consumer,California,West,Technology,Phones,1
-Standard Class,Brosina Hoffman,Consumer,California,West,Office Supplies,Binders,1
-Standard Class,Brosina Hoffman,Consumer,California,West,Office Supplies,Appliances,1
-Standard Class,Brosina Hoffman,Consumer,California,West,Furniture,Tables,1
-Standard Class,Brosina Hoffman,Consumer,California,West,Technology,Phones,1
-Standard Class,Andrew Allen,Consumer,North Carolina,South,Office Supplies,Paper,1
-Standard Class,Irene Maddox,Consumer,Washington,West,Office Supplies,Binders,1
-Standard Class,Harold Pawlan,Home Office,Texas,Central,Office Supplies,Appliances,1
-Standard Class,Harold Pawlan,Home Office,Texas,Central,Office Supplies,Binders,1
-Standard Class,Pete Kriz,Consumer,Wisconsin,Central,Office Supplies,Storage,1
-Second Class,Alejandro Grove,Consumer,Utah,West,Office Supplies,Storage,3
-Second Class,Zuschuss Donatelli,Consumer,California,West,Office Supplies,Art,3
-Second Class,Zuschuss Donatelli,Consumer,California,West,Technology,Phones,3
-Second Class,Zuschuss Donatelli,Consumer,California,West,Office Supplies,Binders,3
-Standard Class,Ken Black,Corporate,Nebraska,Central,Office Supplies,Art,1
-Standard Class,Ken Black,Corporate,Nebraska,Central,Office Supplies,Appliances,1
-Second Class,Sandra Flanagan,Consumer,Pennsylvania,East,Furniture,Chairs,3
-Standard Class,Emily Burns,Consumer,Utah,West,Furniture,Tables,1
-Second Class,Eric Hoffmann,Consumer,California,West,Office Supplies,Binders,3
-Second Class,Eric Hoffmann,Consumer,California,West,Technology,Accessories,3
-Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Furniture,Bookcases,1
-Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Office Supplies,Binders,1
-Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Furniture,Furnishings,1
-Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Office Supplies,Envelopes,1
-Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Office Supplies,Art,1
-Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Office Supplies,Binders,1
-Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Office Supplies,Art,1
-Second Class,Matt Abelman,Home Office,Texas,Central,Office Supplies,Paper,3
-First Class,Gene Hale,Corporate,Texas,Central,Technology,Phones,4
-First Class,Gene Hale,Corporate,Texas,Central,Furniture,Furnishings,4
-Standard Class,Steve Nguyen,Home Office,Texas,Central,Office Supplies,Envelopes,1
-Standard Class,Steve Nguyen,Home Office,Texas,Central,Furniture,Bookcases,1
-Standard Class,Steve Nguyen,Home Office,Texas,Central,Furniture,Chairs,1
-Standard Class,Steve Nguyen,Home Office,Texas,Central,Technology,Phones,1
-Standard Class,Linda Cazamias,Corporate,Illinois,Central,Technology,Phones,1
-Standard Class,Ruben Ausman,Corporate,California,West,Office Supplies,Storage,1
-Standard Class,Erin Smith,Corporate,Florida,South,Office Supplies,Storage,1
-First Class,Odella Nelson,Corporate,Minnesota,Central,Technology,Accessories,4
-First Class,Odella Nelson,Corporate,Minnesota,Central,Office Supplies,Binders,4
-Second Class,Patrick O'Donnell,Consumer,Michigan,Central,Office Supplies,Storage,3
-Standard Class,Lena Hernandez,Consumer,Delaware,East,Technology,Accessories,1
-Standard Class,Lena Hernandez,Consumer,Delaware,East,Technology,Phones,1
-Standard Class,Darren Powers,Consumer,Indiana,Central,Office Supplies,Binders,1
-Standard Class,Darren Powers,Consumer,Indiana,Central,Office Supplies,Labels,1
-Standard Class,Darren Powers,Consumer,Indiana,Central,Furniture,Furnishings,1
-Standard Class,Darren Powers,Consumer,Indiana,Central,Furniture,Chairs,1
-Standard Class,Janet Molinari,Corporate,New York,East,Office Supplies,Fasteners,1
-Standard Class,Janet Molinari,Corporate,New York,East,Technology,Phones,1
-First Class,Ted Butterfield,Consumer,New York,East,Office Supplies,Storage,4
-First Class,Ted Butterfield,Consumer,New York,East,Office Supplies,Paper,4
-First Class,Ted Butterfield,Consumer,New York,East,Furniture,Chairs,4
-First Class,Ted Butterfield,Consumer,New York,East,Office Supplies,Paper,4
-First Class,Ted Butterfield,Consumer,New York,East,Technology,Accessories,4
-First Class,Ted Butterfield,Consumer,New York,East,Office Supplies,Binders,4
-First Class,Ted Butterfield,Consumer,New York,East,Office Supplies,Art,4
-Standard Class,Kunst Miller,Consumer,California,West,Technology,Accessories,1
-Standard Class,Kunst Miller,Consumer,California,West,Office Supplies,Binders,1
-Standard Class,Kunst Miller,Consumer,California,West,Office Supplies,Paper,1
-Standard Class,Kunst Miller,Consumer,California,West,Furniture,Furnishings,1
-Standard Class,Paul Stevenson,Home Office,Illinois,Central,Furniture,Chairs,1
-Standard Class,Brendan Sweed,Corporate,Arizona,West,Office Supplies,Art,1
-Standard Class,Brendan Sweed,Corporate,Arizona,West,Technology,Phones,1
-First Class,Karen Daniels,Consumer,Virginia,South,Office Supplies,Paper,4
-Standard Class,Henry MacAllister,Consumer,New York,East,Office Supplies,Binders,1
-Second Class,Tracy Blumstein,Consumer,Michigan,Central,Office Supplies,Paper,3
-Standard Class,Joel Eaton,Consumer,Tennessee,South,Furniture,Chairs,1
-Standard Class,Joel Eaton,Consumer,Tennessee,South,Furniture,Furnishings,1
-Standard Class,Joel Eaton,Consumer,Tennessee,South,Office Supplies,Storage,1
-First Class,Ken Brennan,Corporate,Texas,Central,Office Supplies,Binders,4
-First Class,Ken Brennan,Corporate,Texas,Central,Furniture,Furnishings,4
-First Class,Ken Brennan,Corporate,Texas,Central,Office Supplies,Storage,4
-Second Class,Joel Eaton,Consumer,Texas,Central,Furniture,Furnishings,3
-First Class,Stewart Carmichael,Corporate,Alabama,South,Office Supplies,Appliances,4
-First Class,Stewart Carmichael,Corporate,Alabama,South,Office Supplies,Binders,4
-Standard Class,Duane Noonan,Consumer,California,West,Office Supplies,Art,1
-Standard Class,Duane Noonan,Consumer,California,West,Office Supplies,Storage,1
-Standard Class,Julie Creighton,Corporate,North Carolina,South,Office Supplies,Envelopes,1
-First Class,Christopher Schild,Home Office,Illinois,Central,Office Supplies,Storage,4
-Second Class,Patrick O'Donnell,Consumer,South Carolina,South,Furniture,Chairs,3
-Standard Class,Paul Gonzalez,Consumer,Minnesota,Central,Technology,Accessories,1
-Standard Class,Paul Gonzalez,Consumer,Minnesota,Central,Office Supplies,Labels,1
-Second Class,Gary Mitchum,Home Office,Texas,Central,Office Supplies,Storage,3
-Standard Class,Jim Sink,Corporate,California,West,Office Supplies,Art,1
-Standard Class,Jim Sink,Corporate,California,West,Technology,Phones,1
-Standard Class,Jim Sink,Corporate,California,West,Office Supplies,Paper,1
-Second Class,Karl Braun,Consumer,Minnesota,Central,Office Supplies,Paper,3
-Second Class,Karl Braun,Consumer,Minnesota,Central,Furniture,Furnishings,3
-Second Class,Karl Braun,Consumer,Minnesota,Central,Office Supplies,Binders,3
-Standard Class,Roger Barcio,Home Office,Oregon,West,Office Supplies,Binders,1
-Second Class,Parhena Norris,Home Office,New York,East,Furniture,Furnishings,3
-First Class,Katherine Ducich,Consumer,California,West,Office Supplies,Binders,4
-Standard Class,Elpida Rittenbach,Corporate,Minnesota,Central,Office Supplies,Appliances,1
-Standard Class,Rick Bensley,Home Office,Illinois,Central,Office Supplies,Paper,1
-Standard Class,Rick Bensley,Home Office,Illinois,Central,Technology,Accessories,1
-Standard Class,Rick Bensley,Home Office,Illinois,Central,Office Supplies,Binders,1
-Second Class,Gary Zandusky,Consumer,Minnesota,Central,Office Supplies,Paper,3
-Standard Class,Lena Cacioppo,Consumer,Colorado,West,Technology,Accessories,1
-Standard Class,Lena Cacioppo,Consumer,Colorado,West,Furniture,Furnishings,1
-Standard Class,Lena Cacioppo,Consumer,Colorado,West,Office Supplies,Binders,1
-Standard Class,Janet Martin,Consumer,North Carolina,South,Technology,Accessories,1
-Standard Class,Janet Martin,Consumer,North Carolina,South,Technology,Phones,1
-Standard Class,Janet Martin,Consumer,North Carolina,South,Office Supplies,Art,1
-Standard Class,Pete Armstrong,Home Office,Illinois,Central,Technology,Accessories,1
-Standard Class,Cynthia Voltz,Corporate,New York,East,Furniture,Furnishings,1
-Standard Class,Clay Ludtke,Consumer,Iowa,Central,Office Supplies,Art,1
-Standard Class,Clay Ludtke,Consumer,Iowa,Central,Office Supplies,Binders,1
-Second Class,Ryan Crowe,Consumer,Ohio,East,Office Supplies,Fasteners,3
-Second Class,Ryan Crowe,Consumer,Ohio,East,Office Supplies,Envelopes,3
-Second Class,Ryan Crowe,Consumer,Ohio,East,Office Supplies,Paper,3
-Second Class,Ryan Crowe,Consumer,Ohio,East,Office Supplies,Envelopes,3
-Standard Class,Dave Kipp,Consumer,Washington,West,Furniture,Tables,1
-Standard Class,Greg Guthrie,Corporate,Tennessee,South,Office Supplies,Binders,1
-First Class,Steven Cartwright,Consumer,Delaware,East,Furniture,Furnishings,4
-First Class,Steven Cartwright,Consumer,Delaware,East,Office Supplies,Binders,4
-First Class,Steven Cartwright,Consumer,Delaware,East,Office Supplies,Storage,4
-First Class,Steven Cartwright,Consumer,Delaware,East,Office Supplies,Envelopes,4
-First Class,Steven Cartwright,Consumer,Delaware,East,Technology,Phones,4
-Second Class,Alan Dominguez,Home Office,Texas,Central,Furniture,Chairs,3
-Standard Class,Philip Fox,Consumer,Illinois,Central,Furniture,Tables,1
-Standard Class,Troy Staebel,Consumer,Arizona,West,Office Supplies,Binders,1
-Standard Class,Troy Staebel,Consumer,Arizona,West,Office Supplies,Storage,1
-Second Class,Lindsay Shagiari,Home Office,California,West,Furniture,Chairs,3
-Second Class,Lindsay Shagiari,Home Office,California,West,Furniture,Furnishings,3
-First Class,Dorothy Wardle,Corporate,Ohio,East,Technology,Phones,4
-First Class,Dorothy Wardle,Corporate,Ohio,East,Office Supplies,Paper,4
-First Class,Dorothy Wardle,Corporate,Ohio,East,Office Supplies,Fasteners,4
-Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Paper,1
-Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Paper,1
-Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Art,1
-Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Fasteners,1
-Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Binders,1
-Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Supplies,1
-Standard Class,Lena Creighton,Consumer,California,West,Furniture,Furnishings,1
-Second Class,Jonathan Doherty,Corporate,Pennsylvania,East,Furniture,Furnishings,3
-Standard Class,Sally Hughsby,Corporate,California,West,Office Supplies,Art,1
-Standard Class,Sally Hughsby,Corporate,California,West,Office Supplies,Envelopes,1
-Standard Class,Sally Hughsby,Corporate,California,West,Office Supplies,Paper,1
-Standard Class,Sandra Glassco,Consumer,Missouri,Central,Office Supplies,Appliances,1
-Standard Class,Helen Andreada,Consumer,California,West,Office Supplies,Storage,1
-Standard Class,Maureen Gastineau,Home Office,Ohio,East,Furniture,Furnishings,1
-Standard Class,Justin Ellison,Corporate,Wisconsin,Central,Technology,Phones,1
-Standard Class,Justin Ellison,Corporate,Wisconsin,Central,Technology,Phones,1
-Standard Class,Justin Ellison,Corporate,Wisconsin,Central,Furniture,Chairs,1
-Standard Class,Justin Ellison,Corporate,Wisconsin,Central,Office Supplies,Binders,1
-First Class,Tamara Willingham,Home Office,Arizona,West,Office Supplies,Appliances,4
-First Class,Tamara Willingham,Home Office,Arizona,West,Technology,Phones,4
-First Class,Stephanie Phelps,Corporate,California,West,Office Supplies,Paper,4
-First Class,Stephanie Phelps,Corporate,California,West,Office Supplies,Paper,4
-First Class,Stephanie Phelps,Corporate,California,West,Office Supplies,Storage,4
-Standard Class,Neil Knudson,Home Office,Washington,West,Office Supplies,Art,1
-Second Class,Dave Brooks,Consumer,Washington,West,Furniture,Chairs,3
-Standard Class,Nora Paige,Consumer,Oklahoma,Central,Office Supplies,Labels,1
-Standard Class,Nora Paige,Consumer,Oklahoma,Central,Technology,Phones,1
-First Class,Ted Trevino,Consumer,California,West,Office Supplies,Paper,4
-Second Class,Eric Murdock,Consumer,Pennsylvania,East,Technology,Accessories,3
-Standard Class,Ruben Dartt,Consumer,New Mexico,West,Office Supplies,Envelopes,1
-Standard Class,Max Jones,Consumer,Washington,West,Office Supplies,Binders,1
-Standard Class,Becky Martin,Consumer,Texas,Central,Office Supplies,Art,1
-Standard Class,Becky Martin,Consumer,Texas,Central,Technology,Machines,1
-Standard Class,Becky Martin,Consumer,Texas,Central,Office Supplies,Storage,1
-Standard Class,Becky Martin,Consumer,Texas,Central,Furniture,Chairs,1
-Standard Class,Becky Martin,Consumer,Texas,Central,Office Supplies,Art,1
-Standard Class,Becky Martin,Consumer,Texas,Central,Office Supplies,Appliances,1
-Standard Class,Becky Martin,Consumer,Texas,Central,Technology,Phones,1
-Standard Class,Chad Sievert,Consumer,California,West,Office Supplies,Paper,1
-Standard Class,Chad Sievert,Consumer,California,West,Office Supplies,Paper,1
-Standard Class,Chad Sievert,Consumer,California,West,Furniture,Chairs,1
-Standard Class,Jennifer Braxton,Corporate,Illinois,Central,Office Supplies,Appliances,1
-Standard Class,Jennifer Braxton,Corporate,Illinois,Central,Office Supplies,Labels,1
-Second Class,Shirley Jackson,Consumer,Texas,Central,Office Supplies,Appliances,3
-Second Class,Joel Eaton,Consumer,Ohio,East,Furniture,Chairs,3
-Second Class,Joel Eaton,Consumer,Ohio,East,Office Supplies,Supplies,3
-Standard Class,Jim Kriz,Home Office,New York,East,Office Supplies,Art,1
-Second Class,David Kendrick,Corporate,Illinois,Central,Office Supplies,Storage,3
-Second Class,David Kendrick,Corporate,Illinois,Central,Technology,Accessories,3
-Second Class,Robert Marley,Home Office,Louisiana,South,Technology,Phones,3
-Second Class,Robert Marley,Home Office,Louisiana,South,Technology,Phones,3
-Second Class,Robert Marley,Home Office,Louisiana,South,Technology,Accessories,3
-Standard Class,Sally Knutson,Consumer,Connecticut,East,Office Supplies,Binders,1
-Standard Class,Frank Merwin,Home Office,California,West,Technology,Accessories,1
-Standard Class,Alice McCarthy,Corporate,Texas,Central,Office Supplies,Storage,1
-Standard Class,Alice McCarthy,Corporate,Texas,Central,Office Supplies,Paper,1
-First Class,Mark Packer,Home Office,New York,East,Furniture,Bookcases,4
-First Class,Mark Packer,Home Office,New York,East,Technology,Phones,4
-First Class,Mark Packer,Home Office,New York,East,Office Supplies,Paper,4
-First Class,Mark Packer,Home Office,New York,East,Furniture,Bookcases,4
-First Class,Mark Packer,Home Office,New York,East,Office Supplies,Art,4
-Standard Class,Mary Zewe,Corporate,California,West,Office Supplies,Envelopes,1
-Standard Class,Cassandra Brandow,Consumer,Ohio,East,Office Supplies,Art,1
-Standard Class,Cassandra Brandow,Consumer,Ohio,East,Office Supplies,Art,1
-Standard Class,Valerie Mitchum,Home Office,New Jersey,East,Office Supplies,Storage,1
-Standard Class,Fred Hopkins,Corporate,Pennsylvania,East,Office Supplies,Binders,1
-Standard Class,Fred Hopkins,Corporate,Pennsylvania,East,Office Supplies,Paper,1
-Standard Class,Maria Bertelson,Consumer,Ohio,East,Office Supplies,Paper,1
-First Class,Bruce Stewart,Consumer,Colorado,West,Furniture,Tables,4
-First Class,Bruce Stewart,Consumer,Colorado,West,Office Supplies,Appliances,4
-Second Class,Logan Currie,Consumer,Texas,Central,Office Supplies,Appliances,3
-Standard Class,Heather Kirkland,Corporate,Tennessee,South,Furniture,Furnishings,1
-Standard Class,Laurel Elliston,Consumer,California,West,Technology,Phones,1
-Standard Class,Joseph Holt,Consumer,Michigan,Central,Office Supplies,Storage,1
-Standard Class,Joseph Holt,Consumer,Michigan,Central,Technology,Phones,1
-Standard Class,Joseph Holt,Consumer,Michigan,Central,Office Supplies,Binders,1
-Standard Class,Joseph Holt,Consumer,Michigan,Central,Office Supplies,Fasteners,1
-Standard Class,Joseph Holt,Consumer,Michigan,Central,Office Supplies,Storage,1
-Second Class,Michael Stewart,Corporate,Texas,Central,Technology,Accessories,3
-Standard Class,Victoria Wilson,Corporate,Ohio,East,Office Supplies,Labels,1
-Standard Class,Victoria Wilson,Corporate,Ohio,East,Furniture,Bookcases,1
-Standard Class,Victoria Wilson,Corporate,Ohio,East,Technology,Phones,1
-Standard Class,Victoria Wilson,Corporate,Ohio,East,Technology,Machines,1
-Standard Class,Victoria Wilson,Corporate,Ohio,East,Technology,Accessories,1
-Standard Class,Jonathan Howell,Consumer,California,West,Office Supplies,Storage,1
-Standard Class,Jonathan Howell,Consumer,California,West,Technology,Phones,1
-First Class,Joni Blumstein,Consumer,Ohio,East,Office Supplies,Fasteners,4
-First Class,Joni Blumstein,Consumer,Ohio,East,Office Supplies,Paper,4
-First Class,Joni Blumstein,Consumer,Ohio,East,Office Supplies,Binders,4
-First Class,Joni Blumstein,Consumer,Ohio,East,Furniture,Furnishings,4
-First Class,Joni Blumstein,Consumer,Ohio,East,Technology,Machines,4
-First Class,Joni Blumstein,Consumer,Ohio,East,Office Supplies,Art,4
-Standard Class,David Smith,Corporate,Michigan,Central,Office Supplies,Art,1
-Standard Class,David Smith,Corporate,Michigan,Central,Furniture,Tables,1
-Standard Class,David Smith,Corporate,Michigan,Central,Office Supplies,Storage,1
-Standard Class,Valerie Dominguez,Consumer,Tennessee,South,Furniture,Chairs,1
-Standard Class,Valerie Dominguez,Consumer,Tennessee,South,Furniture,Chairs,1
-Standard Class,Erin Ashbrook,Corporate,North Carolina,South,Office Supplies,Binders,1
-Standard Class,Christopher Schild,Home Office,Florida,South,Furniture,Tables,1
-Standard Class,Christopher Schild,Home Office,Florida,South,Furniture,Tables,1
-Standard Class,Christopher Schild,Home Office,Florida,South,Office Supplies,Binders,1
-Standard Class,Christopher Schild,Home Office,Florida,South,Furniture,Furnishings,1
-Standard Class,Christopher Schild,Home Office,Florida,South,Technology,Accessories,1
-Standard Class,David Bremer,Corporate,California,West,Office Supplies,Paper,1
-Second Class,Ken Lonsdale,Consumer,Illinois,Central,Office Supplies,Paper,3
-Second Class,Ken Lonsdale,Consumer,Illinois,Central,Furniture,Furnishings,3
-Second Class,Ken Lonsdale,Consumer,Illinois,Central,Furniture,Furnishings,3
-Second Class,Ken Lonsdale,Consumer,Illinois,Central,Technology,Phones,3
-Second Class,Ken Lonsdale,Consumer,Illinois,Central,Furniture,Tables,3
-Second Class,Ken Lonsdale,Consumer,Illinois,Central,Furniture,Furnishings,3
-Second Class,Ken Lonsdale,Consumer,Illinois,Central,Office Supplies,Art,3
-Second Class,Dianna Wilson,Home Office,Minnesota,Central,Furniture,Chairs,3
-Second Class,Dianna Wilson,Home Office,Minnesota,Central,Office Supplies,Storage,3
-Second Class,Dianna Wilson,Home Office,Minnesota,Central,Office Supplies,Paper,3
-Second Class,Dianna Wilson,Home Office,Minnesota,Central,Office Supplies,Appliances,3
-Second Class,Dianna Wilson,Home Office,Minnesota,Central,Office Supplies,Paper,3
-First Class,Evan Bailliet,Consumer,North Carolina,South,Office Supplies,Paper,4
-Standard Class,George Zrebassa,Corporate,Massachusetts,East,Office Supplies,Storage,1
-First Class,Laurel Elliston,Consumer,Illinois,Central,Office Supplies,Binders,4
-Standard Class,Alan Dominguez,Home Office,Pennsylvania,East,Furniture,Furnishings,1
-First Class,Cathy Prescott,Corporate,Connecticut,East,Office Supplies,Paper,4
-Second Class,Frank Gastineau,Home Office,California,West,Office Supplies,Art,3
-Standard Class,Lisa DeCherney,Consumer,California,West,Furniture,Furnishings,1
-Standard Class,Alejandro Ballentine,Home Office,Ohio,East,Technology,Phones,1
-Standard Class,Alejandro Ballentine,Home Office,Ohio,East,Office Supplies,Storage,1
-Standard Class,Michael Nguyen,Consumer,Texas,Central,Office Supplies,Binders,1
-Standard Class,Michael Nguyen,Consumer,Texas,Central,Office Supplies,Appliances,1
-Standard Class,Harold Pawlan,Home Office,California,West,Office Supplies,Binders,1
-Standard Class,Jim Radford,Consumer,Connecticut,East,Office Supplies,Storage,1
-Standard Class,Jamie Frazer,Consumer,California,West,Furniture,Furnishings,1
-Second Class,Chad McGuire,Consumer,New York,East,Furniture,Furnishings,3
-Second Class,Chad McGuire,Consumer,New York,East,Technology,Phones,3
-Second Class,Chad McGuire,Consumer,New York,East,Office Supplies,Paper,3
-First Class,Aaron Smayling,Corporate,North Carolina,South,Technology,Machines,4
-First Class,Anthony Witt,Consumer,Texas,Central,Office Supplies,Binders,4
-Same Day,Dianna Vittorini,Consumer,California,West,Office Supplies,Paper,2
-Standard Class,Adam Hart,Corporate,Georgia,South,Office Supplies,Art,1
-First Class,Sanjit Chand,Consumer,California,West,Furniture,Chairs,4
-First Class,Sanjit Chand,Consumer,California,West,Office Supplies,Envelopes,4
-First Class,Sanjit Chand,Consumer,California,West,Technology,Accessories,4
-First Class,Sanjit Chand,Consumer,California,West,Furniture,Chairs,4
-First Class,Mick Crebagga,Consumer,Texas,Central,Technology,Phones,4
-First Class,Mick Crebagga,Consumer,Texas,Central,Furniture,Chairs,4
-Standard Class,Tonja Turnell,Home Office,Illinois,Central,Office Supplies,Storage,1
-Standard Class,Anne Pryor,Home Office,Alabama,South,Office Supplies,Paper,1
-First Class,Dan Lawera,Consumer,New York,East,Office Supplies,Appliances,4
-First Class,Naresj Patel,Consumer,New York,East,Technology,Phones,4
-First Class,Naresj Patel,Consumer,New York,East,Furniture,Tables,4
-First Class,Naresj Patel,Consumer,New York,East,Office Supplies,Storage,4
-First Class,Naresj Patel,Consumer,New York,East,Office Supplies,Binders,4
-First Class,Naresj Patel,Consumer,New York,East,Furniture,Furnishings,4
-First Class,Naresj Patel,Consumer,New York,East,Furniture,Furnishings,4
-First Class,Naresj Patel,Consumer,New York,East,Technology,Phones,4
-First Class,Naresj Patel,Consumer,New York,East,Office Supplies,Paper,4
-First Class,Naresj Patel,Consumer,New York,East,Office Supplies,Fasteners,4
-First Class,Naresj Patel,Consumer,New York,East,Technology,Accessories,4
-Standard Class,Vivek Grady,Corporate,Virginia,South,Office Supplies,Art,1
-Standard Class,Muhammed Yedwab,Corporate,Texas,Central,Office Supplies,Art,1
-Standard Class,Muhammed Yedwab,Corporate,Texas,Central,Office Supplies,Fasteners,1
-Second Class,Rick Duston,Consumer,Washington,West,Technology,Phones,3
-Same Day,Jeremy Farry,Consumer,California,West,Office Supplies,Paper,2
-First Class,Dennis Pardue,Home Office,Illinois,Central,Furniture,Bookcases,4
-Standard Class,Maribeth Dona,Consumer,Ohio,East,Furniture,Chairs,1
-First Class,Maribeth Yedwab,Corporate,New York,East,Furniture,Furnishings,4
-Second Class,Aimee Bixby,Consumer,Texas,Central,Office Supplies,Paper,3
-Second Class,Aimee Bixby,Consumer,Texas,Central,Office Supplies,Supplies,3
+,shipMode,customerName,segment,state,region,category,subCategory,weights
+0,Second Class,Claire Gute,Consumer,Kentucky,South,Furniture,Bookcases,3
+1,Second Class,Claire Gute,Consumer,Kentucky,South,Furniture,Chairs,3
+2,Second Class,Darrin Van Huff,Corporate,California,West,Office Supplies,Labels,3
+3,Standard Class,Sean O'Donnell,Consumer,Florida,South,Furniture,Tables,1
+4,Standard Class,Sean O'Donnell,Consumer,Florida,South,Office Supplies,Storage,1
+5,Standard Class,Brosina Hoffman,Consumer,California,West,Furniture,Furnishings,1
+6,Standard Class,Brosina Hoffman,Consumer,California,West,Office Supplies,Art,1
+7,Standard Class,Brosina Hoffman,Consumer,California,West,Technology,Phones,1
+8,Standard Class,Brosina Hoffman,Consumer,California,West,Office Supplies,Binders,1
+9,Standard Class,Brosina Hoffman,Consumer,California,West,Office Supplies,Appliances,1
+10,Standard Class,Brosina Hoffman,Consumer,California,West,Furniture,Tables,1
+11,Standard Class,Brosina Hoffman,Consumer,California,West,Technology,Phones,1
+12,Standard Class,Andrew Allen,Consumer,North Carolina,South,Office Supplies,Paper,1
+13,Standard Class,Irene Maddox,Consumer,Washington,West,Office Supplies,Binders,1
+14,Standard Class,Harold Pawlan,Home Office,Texas,Central,Office Supplies,Appliances,1
+15,Standard Class,Harold Pawlan,Home Office,Texas,Central,Office Supplies,Binders,1
+16,Standard Class,Pete Kriz,Consumer,Wisconsin,Central,Office Supplies,Storage,1
+17,Second Class,Alejandro Grove,Consumer,Utah,West,Office Supplies,Storage,3
+18,Second Class,Zuschuss Donatelli,Consumer,California,West,Office Supplies,Art,3
+19,Second Class,Zuschuss Donatelli,Consumer,California,West,Technology,Phones,3
+20,Second Class,Zuschuss Donatelli,Consumer,California,West,Office Supplies,Binders,3
+21,Standard Class,Ken Black,Corporate,Nebraska,Central,Office Supplies,Art,1
+22,Standard Class,Ken Black,Corporate,Nebraska,Central,Office Supplies,Appliances,1
+23,Second Class,Sandra Flanagan,Consumer,Pennsylvania,East,Furniture,Chairs,3
+24,Standard Class,Emily Burns,Consumer,Utah,West,Furniture,Tables,1
+25,Second Class,Eric Hoffmann,Consumer,California,West,Office Supplies,Binders,3
+26,Second Class,Eric Hoffmann,Consumer,California,West,Technology,Accessories,3
+27,Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Furniture,Bookcases,1
+28,Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Office Supplies,Binders,1
+29,Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Furniture,Furnishings,1
+30,Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Office Supplies,Envelopes,1
+31,Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Office Supplies,Art,1
+32,Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Office Supplies,Binders,1
+33,Standard Class,Tracy Blumstein,Consumer,Pennsylvania,East,Office Supplies,Art,1
+34,Second Class,Matt Abelman,Home Office,Texas,Central,Office Supplies,Paper,3
+35,First Class,Gene Hale,Corporate,Texas,Central,Technology,Phones,4
+36,First Class,Gene Hale,Corporate,Texas,Central,Furniture,Furnishings,4
+37,Standard Class,Steve Nguyen,Home Office,Texas,Central,Office Supplies,Envelopes,1
+38,Standard Class,Steve Nguyen,Home Office,Texas,Central,Furniture,Bookcases,1
+39,Standard Class,Steve Nguyen,Home Office,Texas,Central,Furniture,Chairs,1
+40,Standard Class,Steve Nguyen,Home Office,Texas,Central,Technology,Phones,1
+41,Standard Class,Linda Cazamias,Corporate,Illinois,Central,Technology,Phones,1
+42,Standard Class,Ruben Ausman,Corporate,California,West,Office Supplies,Storage,1
+43,Standard Class,Erin Smith,Corporate,Florida,South,Office Supplies,Storage,1
+44,First Class,Odella Nelson,Corporate,Minnesota,Central,Technology,Accessories,4
+45,First Class,Odella Nelson,Corporate,Minnesota,Central,Office Supplies,Binders,4
+46,Second Class,Patrick O'Donnell,Consumer,Michigan,Central,Office Supplies,Storage,3
+47,Standard Class,Lena Hernandez,Consumer,Delaware,East,Technology,Accessories,1
+48,Standard Class,Lena Hernandez,Consumer,Delaware,East,Technology,Phones,1
+49,Standard Class,Darren Powers,Consumer,Indiana,Central,Office Supplies,Binders,1
+50,Standard Class,Darren Powers,Consumer,Indiana,Central,Office Supplies,Labels,1
+51,Standard Class,Darren Powers,Consumer,Indiana,Central,Furniture,Furnishings,1
+52,Standard Class,Darren Powers,Consumer,Indiana,Central,Furniture,Chairs,1
+53,Standard Class,Janet Molinari,Corporate,New York,East,Office Supplies,Fasteners,1
+54,Standard Class,Janet Molinari,Corporate,New York,East,Technology,Phones,1
+55,First Class,Ted Butterfield,Consumer,New York,East,Office Supplies,Storage,4
+56,First Class,Ted Butterfield,Consumer,New York,East,Office Supplies,Paper,4
+57,First Class,Ted Butterfield,Consumer,New York,East,Furniture,Chairs,4
+58,First Class,Ted Butterfield,Consumer,New York,East,Office Supplies,Paper,4
+59,First Class,Ted Butterfield,Consumer,New York,East,Technology,Accessories,4
+60,First Class,Ted Butterfield,Consumer,New York,East,Office Supplies,Binders,4
+61,First Class,Ted Butterfield,Consumer,New York,East,Office Supplies,Art,4
+62,Standard Class,Kunst Miller,Consumer,California,West,Technology,Accessories,1
+63,Standard Class,Kunst Miller,Consumer,California,West,Office Supplies,Binders,1
+64,Standard Class,Kunst Miller,Consumer,California,West,Office Supplies,Paper,1
+65,Standard Class,Kunst Miller,Consumer,California,West,Furniture,Furnishings,1
+66,Standard Class,Paul Stevenson,Home Office,Illinois,Central,Furniture,Chairs,1
+67,Standard Class,Brendan Sweed,Corporate,Arizona,West,Office Supplies,Art,1
+68,Standard Class,Brendan Sweed,Corporate,Arizona,West,Technology,Phones,1
+69,First Class,Karen Daniels,Consumer,Virginia,South,Office Supplies,Paper,4
+70,Standard Class,Henry MacAllister,Consumer,New York,East,Office Supplies,Binders,1
+71,Second Class,Tracy Blumstein,Consumer,Michigan,Central,Office Supplies,Paper,3
+72,Standard Class,Joel Eaton,Consumer,Tennessee,South,Furniture,Chairs,1
+73,Standard Class,Joel Eaton,Consumer,Tennessee,South,Furniture,Furnishings,1
+74,Standard Class,Joel Eaton,Consumer,Tennessee,South,Office Supplies,Storage,1
+75,First Class,Ken Brennan,Corporate,Texas,Central,Office Supplies,Binders,4
+76,First Class,Ken Brennan,Corporate,Texas,Central,Furniture,Furnishings,4
+77,First Class,Ken Brennan,Corporate,Texas,Central,Office Supplies,Storage,4
+78,Second Class,Joel Eaton,Consumer,Texas,Central,Furniture,Furnishings,3
+79,First Class,Stewart Carmichael,Corporate,Alabama,South,Office Supplies,Appliances,4
+80,First Class,Stewart Carmichael,Corporate,Alabama,South,Office Supplies,Binders,4
+81,Standard Class,Duane Noonan,Consumer,California,West,Office Supplies,Art,1
+82,Standard Class,Duane Noonan,Consumer,California,West,Office Supplies,Storage,1
+83,Standard Class,Julie Creighton,Corporate,North Carolina,South,Office Supplies,Envelopes,1
+84,First Class,Christopher Schild,Home Office,Illinois,Central,Office Supplies,Storage,4
+85,Second Class,Patrick O'Donnell,Consumer,South Carolina,South,Furniture,Chairs,3
+86,Standard Class,Paul Gonzalez,Consumer,Minnesota,Central,Technology,Accessories,1
+87,Standard Class,Paul Gonzalez,Consumer,Minnesota,Central,Office Supplies,Labels,1
+88,Second Class,Gary Mitchum,Home Office,Texas,Central,Office Supplies,Storage,3
+89,Standard Class,Jim Sink,Corporate,California,West,Office Supplies,Art,1
+90,Standard Class,Jim Sink,Corporate,California,West,Technology,Phones,1
+91,Standard Class,Jim Sink,Corporate,California,West,Office Supplies,Paper,1
+92,Second Class,Karl Braun,Consumer,Minnesota,Central,Office Supplies,Paper,3
+93,Second Class,Karl Braun,Consumer,Minnesota,Central,Furniture,Furnishings,3
+94,Second Class,Karl Braun,Consumer,Minnesota,Central,Office Supplies,Binders,3
+95,Standard Class,Roger Barcio,Home Office,Oregon,West,Office Supplies,Binders,1
+96,Second Class,Parhena Norris,Home Office,New York,East,Furniture,Furnishings,3
+97,First Class,Katherine Ducich,Consumer,California,West,Office Supplies,Binders,4
+98,Standard Class,Elpida Rittenbach,Corporate,Minnesota,Central,Office Supplies,Appliances,1
+99,Standard Class,Rick Bensley,Home Office,Illinois,Central,Office Supplies,Paper,1
+100,Standard Class,Rick Bensley,Home Office,Illinois,Central,Technology,Accessories,1
+101,Standard Class,Rick Bensley,Home Office,Illinois,Central,Office Supplies,Binders,1
+102,Second Class,Gary Zandusky,Consumer,Minnesota,Central,Office Supplies,Paper,3
+103,Standard Class,Lena Cacioppo,Consumer,Colorado,West,Technology,Accessories,1
+104,Standard Class,Lena Cacioppo,Consumer,Colorado,West,Furniture,Furnishings,1
+105,Standard Class,Lena Cacioppo,Consumer,Colorado,West,Office Supplies,Binders,1
+106,Standard Class,Janet Martin,Consumer,North Carolina,South,Technology,Accessories,1
+107,Standard Class,Janet Martin,Consumer,North Carolina,South,Technology,Phones,1
+108,Standard Class,Janet Martin,Consumer,North Carolina,South,Office Supplies,Art,1
+109,Standard Class,Pete Armstrong,Home Office,Illinois,Central,Technology,Accessories,1
+110,Standard Class,Cynthia Voltz,Corporate,New York,East,Furniture,Furnishings,1
+111,Standard Class,Clay Ludtke,Consumer,Iowa,Central,Office Supplies,Art,1
+112,Standard Class,Clay Ludtke,Consumer,Iowa,Central,Office Supplies,Binders,1
+113,Second Class,Ryan Crowe,Consumer,Ohio,East,Office Supplies,Fasteners,3
+114,Second Class,Ryan Crowe,Consumer,Ohio,East,Office Supplies,Envelopes,3
+115,Second Class,Ryan Crowe,Consumer,Ohio,East,Office Supplies,Paper,3
+116,Second Class,Ryan Crowe,Consumer,Ohio,East,Office Supplies,Envelopes,3
+117,Standard Class,Dave Kipp,Consumer,Washington,West,Furniture,Tables,1
+118,Standard Class,Greg Guthrie,Corporate,Tennessee,South,Office Supplies,Binders,1
+119,First Class,Steven Cartwright,Consumer,Delaware,East,Furniture,Furnishings,4
+120,First Class,Steven Cartwright,Consumer,Delaware,East,Office Supplies,Binders,4
+121,First Class,Steven Cartwright,Consumer,Delaware,East,Office Supplies,Storage,4
+122,First Class,Steven Cartwright,Consumer,Delaware,East,Office Supplies,Envelopes,4
+123,First Class,Steven Cartwright,Consumer,Delaware,East,Technology,Phones,4
+124,Second Class,Alan Dominguez,Home Office,Texas,Central,Furniture,Chairs,3
+125,Standard Class,Philip Fox,Consumer,Illinois,Central,Furniture,Tables,1
+126,Standard Class,Troy Staebel,Consumer,Arizona,West,Office Supplies,Binders,1
+127,Standard Class,Troy Staebel,Consumer,Arizona,West,Office Supplies,Storage,1
+128,Second Class,Lindsay Shagiari,Home Office,California,West,Furniture,Chairs,3
+129,Second Class,Lindsay Shagiari,Home Office,California,West,Furniture,Furnishings,3
+130,First Class,Dorothy Wardle,Corporate,Ohio,East,Technology,Phones,4
+131,First Class,Dorothy Wardle,Corporate,Ohio,East,Office Supplies,Paper,4
+132,First Class,Dorothy Wardle,Corporate,Ohio,East,Office Supplies,Fasteners,4
+133,Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Paper,1
+134,Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Paper,1
+135,Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Art,1
+136,Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Fasteners,1
+137,Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Binders,1
+138,Standard Class,Lena Creighton,Consumer,California,West,Office Supplies,Supplies,1
+139,Standard Class,Lena Creighton,Consumer,California,West,Furniture,Furnishings,1
+140,Second Class,Jonathan Doherty,Corporate,Pennsylvania,East,Furniture,Furnishings,3
+141,Standard Class,Sally Hughsby,Corporate,California,West,Office Supplies,Art,1
+142,Standard Class,Sally Hughsby,Corporate,California,West,Office Supplies,Envelopes,1
+143,Standard Class,Sally Hughsby,Corporate,California,West,Office Supplies,Paper,1
+144,Standard Class,Sandra Glassco,Consumer,Missouri,Central,Office Supplies,Appliances,1
+145,Standard Class,Helen Andreada,Consumer,California,West,Office Supplies,Storage,1
+146,Standard Class,Maureen Gastineau,Home Office,Ohio,East,Furniture,Furnishings,1
+147,Standard Class,Justin Ellison,Corporate,Wisconsin,Central,Technology,Phones,1
+148,Standard Class,Justin Ellison,Corporate,Wisconsin,Central,Technology,Phones,1
+149,Standard Class,Justin Ellison,Corporate,Wisconsin,Central,Furniture,Chairs,1
+150,Standard Class,Justin Ellison,Corporate,Wisconsin,Central,Office Supplies,Binders,1
+151,First Class,Tamara Willingham,Home Office,Arizona,West,Office Supplies,Appliances,4
+152,First Class,Tamara Willingham,Home Office,Arizona,West,Technology,Phones,4
+153,First Class,Stephanie Phelps,Corporate,California,West,Office Supplies,Paper,4
+154,First Class,Stephanie Phelps,Corporate,California,West,Office Supplies,Paper,4
+155,First Class,Stephanie Phelps,Corporate,California,West,Office Supplies,Storage,4
+156,Standard Class,Neil Knudson,Home Office,Washington,West,Office Supplies,Art,1
+157,Second Class,Dave Brooks,Consumer,Washington,West,Furniture,Chairs,3
+158,Standard Class,Nora Paige,Consumer,Oklahoma,Central,Office Supplies,Labels,1
+159,Standard Class,Nora Paige,Consumer,Oklahoma,Central,Technology,Phones,1
+160,First Class,Ted Trevino,Consumer,California,West,Office Supplies,Paper,4
+161,Second Class,Eric Murdock,Consumer,Pennsylvania,East,Technology,Accessories,3
+162,Standard Class,Ruben Dartt,Consumer,New Mexico,West,Office Supplies,Envelopes,1
+163,Standard Class,Max Jones,Consumer,Washington,West,Office Supplies,Binders,1
+164,Standard Class,Becky Martin,Consumer,Texas,Central,Office Supplies,Art,1
+165,Standard Class,Becky Martin,Consumer,Texas,Central,Technology,Machines,1
+166,Standard Class,Becky Martin,Consumer,Texas,Central,Office Supplies,Storage,1
+167,Standard Class,Becky Martin,Consumer,Texas,Central,Furniture,Chairs,1
+168,Standard Class,Becky Martin,Consumer,Texas,Central,Office Supplies,Art,1
+169,Standard Class,Becky Martin,Consumer,Texas,Central,Office Supplies,Appliances,1
+170,Standard Class,Becky Martin,Consumer,Texas,Central,Technology,Phones,1
+171,Standard Class,Chad Sievert,Consumer,California,West,Office Supplies,Paper,1
+172,Standard Class,Chad Sievert,Consumer,California,West,Office Supplies,Paper,1
+173,Standard Class,Chad Sievert,Consumer,California,West,Furniture,Chairs,1
+174,Standard Class,Jennifer Braxton,Corporate,Illinois,Central,Office Supplies,Appliances,1
+175,Standard Class,Jennifer Braxton,Corporate,Illinois,Central,Office Supplies,Labels,1
+176,Second Class,Shirley Jackson,Consumer,Texas,Central,Office Supplies,Appliances,3
+177,Second Class,Joel Eaton,Consumer,Ohio,East,Furniture,Chairs,3
+178,Second Class,Joel Eaton,Consumer,Ohio,East,Office Supplies,Supplies,3
+179,Standard Class,Jim Kriz,Home Office,New York,East,Office Supplies,Art,1
+180,Second Class,David Kendrick,Corporate,Illinois,Central,Office Supplies,Storage,3
+181,Second Class,David Kendrick,Corporate,Illinois,Central,Technology,Accessories,3
+182,Second Class,Robert Marley,Home Office,Louisiana,South,Technology,Phones,3
+183,Second Class,Robert Marley,Home Office,Louisiana,South,Technology,Phones,3
+184,Second Class,Robert Marley,Home Office,Louisiana,South,Technology,Accessories,3
+185,Standard Class,Sally Knutson,Consumer,Connecticut,East,Office Supplies,Binders,1
+186,Standard Class,Frank Merwin,Home Office,California,West,Technology,Accessories,1
+187,Standard Class,Alice McCarthy,Corporate,Texas,Central,Office Supplies,Storage,1
+188,Standard Class,Alice McCarthy,Corporate,Texas,Central,Office Supplies,Paper,1
+189,First Class,Mark Packer,Home Office,New York,East,Furniture,Bookcases,4
+190,First Class,Mark Packer,Home Office,New York,East,Technology,Phones,4
+191,First Class,Mark Packer,Home Office,New York,East,Office Supplies,Paper,4
+192,First Class,Mark Packer,Home Office,New York,East,Furniture,Bookcases,4
+193,First Class,Mark Packer,Home Office,New York,East,Office Supplies,Art,4
+194,Standard Class,Mary Zewe,Corporate,California,West,Office Supplies,Envelopes,1
+195,Standard Class,Cassandra Brandow,Consumer,Ohio,East,Office Supplies,Art,1
+196,Standard Class,Cassandra Brandow,Consumer,Ohio,East,Office Supplies,Art,1
+197,Standard Class,Valerie Mitchum,Home Office,New Jersey,East,Office Supplies,Storage,1
+198,Standard Class,Fred Hopkins,Corporate,Pennsylvania,East,Office Supplies,Binders,1
+199,Standard Class,Fred Hopkins,Corporate,Pennsylvania,East,Office Supplies,Paper,1
+200,Standard Class,Maria Bertelson,Consumer,Ohio,East,Office Supplies,Paper,1
+201,First Class,Bruce Stewart,Consumer,Colorado,West,Furniture,Tables,4
+202,First Class,Bruce Stewart,Consumer,Colorado,West,Office Supplies,Appliances,4
+203,Second Class,Logan Currie,Consumer,Texas,Central,Office Supplies,Appliances,3
+204,Standard Class,Heather Kirkland,Corporate,Tennessee,South,Furniture,Furnishings,1
+205,Standard Class,Laurel Elliston,Consumer,California,West,Technology,Phones,1
+206,Standard Class,Joseph Holt,Consumer,Michigan,Central,Office Supplies,Storage,1
+207,Standard Class,Joseph Holt,Consumer,Michigan,Central,Technology,Phones,1
+208,Standard Class,Joseph Holt,Consumer,Michigan,Central,Office Supplies,Binders,1
+209,Standard Class,Joseph Holt,Consumer,Michigan,Central,Office Supplies,Fasteners,1
+210,Standard Class,Joseph Holt,Consumer,Michigan,Central,Office Supplies,Storage,1
+211,Second Class,Michael Stewart,Corporate,Texas,Central,Technology,Accessories,3
+212,Standard Class,Victoria Wilson,Corporate,Ohio,East,Office Supplies,Labels,1
+213,Standard Class,Victoria Wilson,Corporate,Ohio,East,Furniture,Bookcases,1
+214,Standard Class,Victoria Wilson,Corporate,Ohio,East,Technology,Phones,1
+215,Standard Class,Victoria Wilson,Corporate,Ohio,East,Technology,Machines,1
+216,Standard Class,Victoria Wilson,Corporate,Ohio,East,Technology,Accessories,1
+217,Standard Class,Jonathan Howell,Consumer,California,West,Office Supplies,Storage,1
+218,Standard Class,Jonathan Howell,Consumer,California,West,Technology,Phones,1
+219,First Class,Joni Blumstein,Consumer,Ohio,East,Office Supplies,Fasteners,4
+220,First Class,Joni Blumstein,Consumer,Ohio,East,Office Supplies,Paper,4
+221,First Class,Joni Blumstein,Consumer,Ohio,East,Office Supplies,Binders,4
+222,First Class,Joni Blumstein,Consumer,Ohio,East,Furniture,Furnishings,4
+223,First Class,Joni Blumstein,Consumer,Ohio,East,Technology,Machines,4
+224,First Class,Joni Blumstein,Consumer,Ohio,East,Office Supplies,Art,4
+225,Standard Class,David Smith,Corporate,Michigan,Central,Office Supplies,Art,1
+226,Standard Class,David Smith,Corporate,Michigan,Central,Furniture,Tables,1
+227,Standard Class,David Smith,Corporate,Michigan,Central,Office Supplies,Storage,1
+228,Standard Class,Valerie Dominguez,Consumer,Tennessee,South,Furniture,Chairs,1
+229,Standard Class,Valerie Dominguez,Consumer,Tennessee,South,Furniture,Chairs,1
+230,Standard Class,Erin Ashbrook,Corporate,North Carolina,South,Office Supplies,Binders,1
+231,Standard Class,Christopher Schild,Home Office,Florida,South,Furniture,Tables,1
+232,Standard Class,Christopher Schild,Home Office,Florida,South,Furniture,Tables,1
+233,Standard Class,Christopher Schild,Home Office,Florida,South,Office Supplies,Binders,1
+234,Standard Class,Christopher Schild,Home Office,Florida,South,Furniture,Furnishings,1
+235,Standard Class,Christopher Schild,Home Office,Florida,South,Technology,Accessories,1
+236,Standard Class,David Bremer,Corporate,California,West,Office Supplies,Paper,1
+237,Second Class,Ken Lonsdale,Consumer,Illinois,Central,Office Supplies,Paper,3
+238,Second Class,Ken Lonsdale,Consumer,Illinois,Central,Furniture,Furnishings,3
+239,Second Class,Ken Lonsdale,Consumer,Illinois,Central,Furniture,Furnishings,3
+240,Second Class,Ken Lonsdale,Consumer,Illinois,Central,Technology,Phones,3
+241,Second Class,Ken Lonsdale,Consumer,Illinois,Central,Furniture,Tables,3
+242,Second Class,Ken Lonsdale,Consumer,Illinois,Central,Furniture,Furnishings,3
+243,Second Class,Ken Lonsdale,Consumer,Illinois,Central,Office Supplies,Art,3
+244,Second Class,Dianna Wilson,Home Office,Minnesota,Central,Furniture,Chairs,3
+245,Second Class,Dianna Wilson,Home Office,Minnesota,Central,Office Supplies,Storage,3
+246,Second Class,Dianna Wilson,Home Office,Minnesota,Central,Office Supplies,Paper,3
+247,Second Class,Dianna Wilson,Home Office,Minnesota,Central,Office Supplies,Appliances,3
+248,Second Class,Dianna Wilson,Home Office,Minnesota,Central,Office Supplies,Paper,3
+249,Second Class,Logan Haushalter,Consumer,California,West,Furniture,Chairs,3
+250,Standard Class,Kelly Collister,Consumer,California,West,Office Supplies,Paper,1
+251,Standard Class,Kelly Collister,Consumer,California,West,Technology,Accessories,1
+252,First Class,Delfina Latchford,Consumer,New York,East,Office Supplies,Storage,4
+253,First Class,Delfina Latchford,Consumer,New York,East,Office Supplies,Envelopes,4
+254,Standard Class,Dan Reichenbach,Corporate,Illinois,Central,Furniture,Furnishings,1
+255,Standard Class,Dan Reichenbach,Corporate,Illinois,Central,Office Supplies,Storage,1
+256,Standard Class,Dan Reichenbach,Corporate,Illinois,Central,Office Supplies,Storage,1
+257,Standard Class,Dan Reichenbach,Corporate,Illinois,Central,Technology,Phones,1
+258,Second Class,Craig Carreira,Consumer,New York,East,Technology,Accessories,3
+259,Second Class,Craig Carreira,Consumer,New York,East,Office Supplies,Storage,3
+260,Second Class,Craig Carreira,Consumer,New York,East,Office Supplies,Binders,3
+261,Standard Class,Dorris liebe,Corporate,Texas,Central,Office Supplies,Appliances,1
+262,Second Class,Sean Braxton,Corporate,Texas,Central,Technology,Machines,3
+263,Second Class,Sean Braxton,Corporate,Texas,Central,Technology,Machines,3
+264,Standard Class,Roy Collins,Consumer,Illinois,Central,Technology,Phones,1
+265,Standard Class,Alan Hwang,Consumer,California,West,Technology,Accessories,1
+266,Standard Class,Claudia Bergmann,Corporate,North Carolina,South,Office Supplies,Art,1
+267,Standard Class,Paul Gonzalez,Consumer,New Jersey,East,Office Supplies,Fasteners,1
+268,Standard Class,Christine Abelman,Corporate,Ohio,East,Office Supplies,Storage,1
+269,Standard Class,Christine Abelman,Corporate,Ohio,East,Office Supplies,Envelopes,1
+270,Second Class,Kristen Hastings,Corporate,California,West,Office Supplies,Storage,3
+271,First Class,Helen Andreada,Consumer,California,West,Technology,Accessories,4
+272,First Class,Helen Andreada,Consumer,California,West,Furniture,Furnishings,4
+273,First Class,Helen Andreada,Consumer,California,West,Office Supplies,Binders,4
+274,First Class,Barry Blumstein,Corporate,California,West,Office Supplies,Paper,4
+275,First Class,Barry Blumstein,Corporate,California,West,Office Supplies,Art,4
+276,Standard Class,Andrew Gjertsen,Corporate,Pennsylvania,East,Office Supplies,Paper,1
+277,Standard Class,Andrew Gjertsen,Corporate,Pennsylvania,East,Office Supplies,Paper,1
+278,Standard Class,Andrew Gjertsen,Corporate,Pennsylvania,East,Office Supplies,Storage,1
+279,Standard Class,Andrew Gjertsen,Corporate,Pennsylvania,East,Office Supplies,Labels,1
+280,Second Class,Steven Cartwright,Consumer,Texas,Central,Office Supplies,Binders,3
+281,Second Class,Steven Cartwright,Consumer,Texas,Central,Technology,Phones,3
+282,Standard Class,Jas O'Carroll,Consumer,California,West,Furniture,Tables,1
+283,Standard Class,Tracy Blumstein,Consumer,Oregon,West,Office Supplies,Paper,1
+284,Standard Class,Tracy Blumstein,Consumer,Oregon,West,Technology,Accessories,1
+285,Standard Class,Tracy Blumstein,Consumer,Oregon,West,Office Supplies,Paper,1
+286,Second Class,Alan Haines,Corporate,Florida,South,Office Supplies,Binders,3
+287,Second Class,Alan Haines,Corporate,Florida,South,Office Supplies,Appliances,3
+288,Second Class,Alan Haines,Corporate,Florida,South,Office Supplies,Supplies,3
+289,Second Class,Nick Zandusky,Home Office,Ohio,East,Office Supplies,Fasteners,3
+290,Second Class,Nick Zandusky,Home Office,Ohio,East,Office Supplies,Labels,3
+291,Second Class,Nick Zandusky,Home Office,Ohio,East,Technology,Accessories,3
+292,Second Class,Nick Zandusky,Home Office,Ohio,East,Furniture,Bookcases,3
+293,First Class,Kelly Lampkin,Corporate,Colorado,West,Furniture,Furnishings,4
+294,First Class,Kelly Lampkin,Corporate,Colorado,West,Furniture,Chairs,4
+295,First Class,Kelly Lampkin,Corporate,Colorado,West,Furniture,Furnishings,4
+296,First Class,Kelly Lampkin,Corporate,Colorado,West,Office Supplies,Binders,4
+297,First Class,Kelly Lampkin,Corporate,Colorado,West,Office Supplies,Fasteners,4
+298,Standard Class,Jonathan Doherty,Corporate,New Jersey,East,Office Supplies,Paper,1
+299,Standard Class,Jonathan Doherty,Corporate,New Jersey,East,Office Supplies,Storage,1
+300,Standard Class,Jonathan Doherty,Corporate,New Jersey,East,Office Supplies,Paper,1
+301,Standard Class,Jonathan Doherty,Corporate,New Jersey,East,Furniture,Furnishings,1
+302,Standard Class,Jonathan Doherty,Corporate,New Jersey,East,Office Supplies,Binders,1
+303,Standard Class,Jonathan Howell,Consumer,Illinois,Central,Furniture,Tables,1
+304,Second Class,Alan Schoenberger,Corporate,New York,East,Furniture,Furnishings,3
+305,Standard Class,Ken Brennan,Corporate,Michigan,Central,Office Supplies,Art,1
+306,Standard Class,Corey Roper,Home Office,New Jersey,East,Office Supplies,Binders,1
+307,Standard Class,Corey Roper,Home Office,New Jersey,East,Office Supplies,Art,1
+308,First Class,Shahid Hopkins,Consumer,Virginia,South,Office Supplies,Art,4
+309,Second Class,Ben Peterman,Corporate,Colorado,West,Furniture,Furnishings,3
+310,Second Class,Ben Peterman,Corporate,Colorado,West,Furniture,Chairs,3
+311,Second Class,Ben Peterman,Corporate,Colorado,West,Furniture,Furnishings,3
+312,Second Class,Ben Peterman,Corporate,Colorado,West,Office Supplies,Labels,3
+313,Standard Class,Thomas Seio,Corporate,New Jersey,East,Furniture,Furnishings,1
+314,Standard Class,Andy Gerbode,Corporate,Florida,South,Technology,Phones,1
+315,Standard Class,Andy Gerbode,Corporate,Florida,South,Office Supplies,Paper,1
+316,First Class,Sung Pak,Corporate,Pennsylvania,East,Office Supplies,Art,4
+317,Standard Class,Nathan Mautz,Home Office,New York,East,Furniture,Chairs,1
+318,Standard Class,Nathan Mautz,Home Office,New York,East,Technology,Machines,1
+319,Standard Class,Nathan Mautz,Home Office,New York,East,Technology,Phones,1
+320,Standard Class,Nathan Mautz,Home Office,New York,East,Technology,Accessories,1
+321,Standard Class,Nathan Mautz,Home Office,New York,East,Office Supplies,Storage,1
+322,Standard Class,Frank Atkinson,Corporate,California,West,Office Supplies,Fasteners,1
+323,Standard Class,Grace Kelly,Corporate,California,West,Office Supplies,Binders,1
+324,Standard Class,Grace Kelly,Corporate,California,West,Technology,Accessories,1
+325,Second Class,Don Jones,Corporate,Tennessee,South,Furniture,Furnishings,3
+326,First Class,Patrick O'Brill,Consumer,Pennsylvania,East,Technology,Phones,4
+327,First Class,Patrick O'Brill,Consumer,Pennsylvania,East,Office Supplies,Storage,4
+328,First Class,Patrick O'Brill,Consumer,Pennsylvania,East,Furniture,Chairs,4
+329,First Class,Patrick O'Brill,Consumer,Pennsylvania,East,Office Supplies,Labels,4
+330,First Class,Patrick O'Brill,Consumer,Pennsylvania,East,Office Supplies,Binders,4
+331,Second Class,John Lucas,Consumer,Pennsylvania,East,Technology,Phones,3
+332,Second Class,John Lucas,Consumer,Pennsylvania,East,Office Supplies,Binders,3
+333,Second Class,John Lucas,Consumer,Pennsylvania,East,Office Supplies,Binders,3
+334,Second Class,Doug Bickford,Consumer,California,West,Office Supplies,Binders,3
+335,Second Class,Doug Bickford,Consumer,California,West,Technology,Copiers,3
+336,Second Class,Doug Bickford,Consumer,California,West,Office Supplies,Binders,3
+337,Standard Class,Alyssa Crouse,Corporate,California,West,Office Supplies,Binders,1
+338,Standard Class,Alyssa Crouse,Corporate,California,West,Furniture,Tables,1
+339,Second Class,Ken Lonsdale,Consumer,Utah,West,Office Supplies,Fasteners,3
+340,Second Class,Jonathan Doherty,Corporate,Pennsylvania,East,Office Supplies,Art,3
+341,Second Class,Jonathan Doherty,Corporate,Pennsylvania,East,Office Supplies,Binders,3
+342,Second Class,Jonathan Doherty,Corporate,Pennsylvania,East,Office Supplies,Fasteners,3
+343,Second Class,Jonathan Doherty,Corporate,Pennsylvania,East,Technology,Phones,3
+344,Standard Class,Chad Sievert,Consumer,Texas,Central,Office Supplies,Storage,1
+345,Standard Class,Clay Cheatham,Consumer,California,West,Technology,Phones,1
+346,Standard Class,Tamara Dahlen,Consumer,Massachusetts,East,Office Supplies,Art,1
+347,Standard Class,Tamara Dahlen,Consumer,Massachusetts,East,Office Supplies,Paper,1
+348,Standard Class,Tamara Dahlen,Consumer,Massachusetts,East,Office Supplies,Art,1
+349,First Class,Adam Bellavance,Home Office,New York,East,Technology,Accessories,4
+350,First Class,Adam Bellavance,Home Office,New York,East,Office Supplies,Paper,4
+351,First Class,Adam Bellavance,Home Office,New York,East,Office Supplies,Binders,4
+352,First Class,Adam Bellavance,Home Office,New York,East,Office Supplies,Paper,4
+353,First Class,Adam Bellavance,Home Office,New York,East,Office Supplies,Binders,4
+354,Standard Class,Jeremy Lonsdale,Consumer,New York,East,Furniture,Bookcases,1
+355,Standard Class,Jeremy Lonsdale,Consumer,New York,East,Office Supplies,Envelopes,1
+356,Standard Class,Jeremy Lonsdale,Consumer,New York,East,Office Supplies,Art,1
+357,Standard Class,Jeremy Lonsdale,Consumer,New York,East,Office Supplies,Paper,1
+358,Standard Class,Heather Kirkland,Corporate,North Carolina,South,Office Supplies,Paper,1
+359,First Class,Victoria Brennan,Corporate,Georgia,South,Office Supplies,Appliances,4
+360,First Class,Victoria Brennan,Corporate,Georgia,South,Office Supplies,Labels,4
+361,Standard Class,Katrina Willman,Consumer,New York,East,Office Supplies,Labels,1
+362,Standard Class,Katrina Willman,Consumer,New York,East,Furniture,Chairs,1
+363,Standard Class,Katrina Willman,Consumer,New York,East,Office Supplies,Art,1
+364,Standard Class,Katrina Willman,Consumer,New York,East,Furniture,Furnishings,1
+365,Standard Class,Julia Dunbar,Consumer,California,West,Office Supplies,Storage,1
+366,Same Day,Michael Kennedy,Corporate,Connecticut,East,Office Supplies,Binders,2
+367,Same Day,Michael Kennedy,Corporate,Connecticut,East,Office Supplies,Supplies,2
+368,Same Day,Michael Kennedy,Corporate,Connecticut,East,Office Supplies,Storage,2
+369,Same Day,Michael Kennedy,Corporate,Connecticut,East,Furniture,Bookcases,2
+370,Standard Class,Guy Thornton,Consumer,Texas,Central,Office Supplies,Paper,1
+371,Standard Class,Guy Thornton,Consumer,Texas,Central,Office Supplies,Storage,1
+372,Standard Class,Arthur Gainer,Consumer,Arizona,West,Office Supplies,Binders,1
+373,Standard Class,Arthur Gainer,Consumer,Arizona,West,Technology,Accessories,1
+374,Standard Class,Arthur Gainer,Consumer,Arizona,West,Office Supplies,Art,1
+375,Standard Class,Arthur Gainer,Consumer,Arizona,West,Technology,Accessories,1
+376,First Class,Muhammed MacIntyre,Corporate,Illinois,Central,Office Supplies,Paper,4
+377,Standard Class,Allen Rosenblatt,Corporate,Massachusetts,East,Furniture,Tables,1
+378,Standard Class,Russell Applegate,Consumer,Texas,Central,Office Supplies,Appliances,1
+379,Standard Class,Russell Applegate,Consumer,Texas,Central,Office Supplies,Storage,1
+380,Standard Class,Russell Applegate,Consumer,Texas,Central,Office Supplies,Binders,1
+381,First Class,Alejandro Savely,Corporate,California,West,Office Supplies,Paper,4
+382,First Class,Alejandro Savely,Corporate,California,West,Office Supplies,Binders,4
+383,Second Class,Laura Armstrong,Corporate,Michigan,Central,Technology,Accessories,3
+384,Standard Class,Denny Ordway,Consumer,Florida,South,Furniture,Tables,1
+385,Standard Class,Denny Ordway,Consumer,Florida,South,Technology,Accessories,1
+386,Standard Class,Dean Katz,Corporate,Pennsylvania,East,Technology,Machines,1
+387,Standard Class,Dean Katz,Corporate,Pennsylvania,East,Furniture,Furnishings,1
+388,First Class,Nathan Gelder,Consumer,Ohio,East,Office Supplies,Art,4
+389,Standard Class,Mike Vittorini,Consumer,New York,East,Office Supplies,Binders,1
+390,Standard Class,Mike Vittorini,Consumer,New York,East,Technology,Accessories,1
+391,Second Class,Jack Garza,Consumer,Washington,West,Technology,Phones,3
+392,Second Class,Jack Garza,Consumer,Washington,West,Technology,Copiers,3
+393,Second Class,Bart Pistole,Corporate,Illinois,Central,Office Supplies,Binders,3
+394,Standard Class,Victor Preis,Home Office,Nevada,West,Office Supplies,Binders,1
+395,Second Class,Saphhira Shifley,Corporate,Rhode Island,East,Office Supplies,Storage,3
+396,Second Class,Saphhira Shifley,Corporate,Rhode Island,East,Office Supplies,Paper,3
+397,Standard Class,Harold Pawlan,Home Office,Michigan,Central,Office Supplies,Supplies,1
+398,Second Class,Anna Gayman,Consumer,Texas,Central,Office Supplies,Storage,3
+399,Second Class,Anna Gayman,Consumer,Texas,Central,Furniture,Bookcases,3
+400,Second Class,Anna Gayman,Consumer,Texas,Central,Office Supplies,Storage,3
+401,Second Class,Anna Gayman,Consumer,Texas,Central,Technology,Accessories,3
+402,First Class,Luke Foster,Consumer,Florida,South,Office Supplies,Paper,4
+403,Standard Class,Stephanie Phelps,Corporate,North Carolina,South,Office Supplies,Art,1
+404,Standard Class,Roy Französisch,Consumer,New York,East,Office Supplies,Appliances,1
+405,Standard Class,Keith Herrera,Consumer,California,West,Technology,Accessories,1
+406,Standard Class,Keith Herrera,Consumer,California,West,Technology,Copiers,1
+407,Standard Class,Keith Herrera,Consumer,California,West,Office Supplies,Paper,1
+408,Standard Class,Keith Herrera,Consumer,California,West,Furniture,Tables,1
+409,Standard Class,Keith Herrera,Consumer,California,West,Office Supplies,Paper,1
+410,Standard Class,Keith Herrera,Consumer,California,West,Office Supplies,Labels,1
+411,Standard Class,Keith Herrera,Consumer,California,West,Office Supplies,Paper,1
+412,Standard Class,Keith Herrera,Consumer,California,West,Furniture,Bookcases,1
+413,Standard Class,Keith Herrera,Consumer,California,West,Furniture,Chairs,1
+414,Standard Class,Kimberly Carter,Corporate,Washington,West,Office Supplies,Paper,1
+415,Standard Class,Kimberly Carter,Corporate,Washington,West,Furniture,Chairs,1
+416,Standard Class,Caroline Jumper,Consumer,California,West,Office Supplies,Art,1
+417,Standard Class,Philip Brown,Consumer,California,West,Furniture,Chairs,1
+418,Standard Class,Victoria Brennan,Corporate,Kentucky,South,Office Supplies,Paper,1
+419,Standard Class,Sung Pak,Corporate,California,West,Office Supplies,Art,1
+420,Standard Class,Sung Pak,Corporate,California,West,Office Supplies,Envelopes,1
+421,First Class,Joel Eaton,Consumer,Colorado,West,Technology,Accessories,4
+422,Standard Class,Michael Paige,Corporate,Massachusetts,East,Furniture,Furnishings,1
+423,Standard Class,Michael Paige,Corporate,Massachusetts,East,Office Supplies,Storage,1
+424,Second Class,Natalie Fritzler,Consumer,Mississippi,South,Furniture,Chairs,3
+425,Second Class,Janet Molinari,Corporate,Michigan,Central,Furniture,Furnishings,3
+426,Second Class,Janet Molinari,Corporate,Michigan,Central,Office Supplies,Binders,3
+427,First Class,Shirley Daniels,Home Office,New York,East,Technology,Machines,4
+428,Standard Class,Ken Heidel,Corporate,Texas,Central,Office Supplies,Art,1
+429,Standard Class,Ross Baird,Home Office,North Carolina,South,Office Supplies,Binders,1
+430,Standard Class,Ross Baird,Home Office,North Carolina,South,Technology,Accessories,1
+431,Standard Class,Ross Baird,Home Office,North Carolina,South,Technology,Accessories,1
+432,Standard Class,Ross Baird,Home Office,North Carolina,South,Office Supplies,Storage,1
+433,First Class,Dave Brooks,Consumer,Massachusetts,East,Office Supplies,Storage,4
+434,Standard Class,Mike Kennedy,Consumer,Florida,South,Office Supplies,Binders,1
+435,Standard Class,Mike Kennedy,Consumer,Florida,South,Technology,Accessories,1
+436,Second Class,Philisse Overcash,Home Office,Illinois,Central,Technology,Machines,3
+437,Second Class,Philisse Overcash,Home Office,Illinois,Central,Office Supplies,Paper,3
+438,Standard Class,Brenda Bowman,Corporate,Texas,Central,Office Supplies,Paper,1
+439,Second Class,Cynthia Voltz,Corporate,New York,East,Furniture,Chairs,3
+440,Second Class,Pete Kriz,Consumer,Michigan,Central,Furniture,Furnishings,3
+441,Second Class,Pete Kriz,Consumer,Michigan,Central,Office Supplies,Storage,3
+442,Second Class,Pete Kriz,Consumer,Michigan,Central,Office Supplies,Storage,3
+443,Second Class,Pete Kriz,Consumer,Michigan,Central,Office Supplies,Paper,3
+444,Second Class,Pete Kriz,Consumer,Michigan,Central,Furniture,Chairs,3
+445,Second Class,Pete Kriz,Consumer,Michigan,Central,Office Supplies,Labels,3
+446,Second Class,Troy Blackwell,Consumer,Indiana,Central,Furniture,Furnishings,3
+447,Second Class,Raymond Buch,Consumer,New York,East,Office Supplies,Art,3
+448,Second Class,Raymond Buch,Consumer,New York,East,Office Supplies,Storage,3
+449,Second Class,Raymond Buch,Consumer,New York,East,Office Supplies,Art,3
+450,Second Class,Raymond Buch,Consumer,New York,East,Office Supplies,Art,3
+451,Second Class,Raymond Buch,Consumer,New York,East,Office Supplies,Art,3
+452,Second Class,Raymond Buch,Consumer,New York,East,Technology,Phones,3
+453,Standard Class,Ed Braxton,Corporate,Ohio,East,Furniture,Tables,1
+454,Standard Class,Ed Braxton,Corporate,Ohio,East,Office Supplies,Storage,1
+455,Standard Class,Ken Heidel,Corporate,Oklahoma,Central,Technology,Accessories,1
+456,Standard Class,Sanjit Chand,Consumer,California,West,Furniture,Chairs,1
+457,Standard Class,Natalie Fritzler,Consumer,Illinois,Central,Furniture,Chairs,1
+458,Standard Class,Natalie Fritzler,Consumer,Illinois,Central,Office Supplies,Envelopes,1
+459,Standard Class,Joseph Holt,Consumer,Washington,West,Office Supplies,Appliances,1
+460,Standard Class,Joseph Holt,Consumer,Washington,West,Technology,Accessories,1
+461,Standard Class,Joseph Holt,Consumer,Washington,West,Office Supplies,Binders,1
+462,Standard Class,Tanja Norvell,Home Office,Arizona,West,Furniture,Furnishings,1
+463,Standard Class,Tanja Norvell,Home Office,Arizona,West,Furniture,Tables,1
+464,Standard Class,Tanja Norvell,Home Office,Arizona,West,Office Supplies,Binders,1
+465,Standard Class,Tanja Norvell,Home Office,Arizona,West,Office Supplies,Supplies,1
+466,Standard Class,Tanja Norvell,Home Office,Arizona,West,Office Supplies,Appliances,1
+467,Standard Class,Joni Sundaresam,Home Office,Illinois,Central,Furniture,Furnishings,1
+468,Standard Class,David Smith,Corporate,Texas,Central,Furniture,Bookcases,1
+469,Second Class,Craig Carreira,Consumer,Illinois,Central,Office Supplies,Binders,3
+470,Standard Class,Maya Herman,Corporate,New York,East,Office Supplies,Paper,1
+471,Second Class,Jeremy Pistek,Consumer,California,West,Office Supplies,Storage,3
+472,Second Class,Jeremy Pistek,Consumer,California,West,Furniture,Bookcases,3
+473,Second Class,Jeremy Pistek,Consumer,California,West,Technology,Phones,3
+474,Second Class,Jeremy Pistek,Consumer,California,West,Office Supplies,Storage,3
+475,Second Class,Jeremy Pistek,Consumer,California,West,Office Supplies,Paper,3
+476,Second Class,Jeremy Pistek,Consumer,California,West,Office Supplies,Paper,3
+477,Standard Class,Kristen Hastings,Corporate,California,West,Technology,Phones,1
+478,Standard Class,Jeremy Ellison,Consumer,New York,East,Furniture,Furnishings,1
+479,Standard Class,John Grady,Corporate,New York,East,Office Supplies,Art,1
+480,Standard Class,John Grady,Corporate,New York,East,Office Supplies,Storage,1
+481,Standard Class,Xylona Preis,Consumer,California,West,Technology,Accessories,1
+482,Standard Class,Erin Mull,Consumer,New York,East,Office Supplies,Art,1
+483,Standard Class,Erin Mull,Consumer,New York,East,Technology,Accessories,1
+484,First Class,Michelle Tran,Home Office,California,West,Office Supplies,Labels,4
+485,First Class,Michelle Tran,Home Office,California,West,Furniture,Bookcases,4
+486,First Class,Michelle Tran,Home Office,California,West,Technology,Phones,4
+487,First Class,Sue Ann Reed,Consumer,Illinois,Central,Technology,Phones,4
+488,Second Class,Carl Weiss,Home Office,Texas,Central,Technology,Phones,3
+489,Second Class,Carl Weiss,Home Office,Texas,Central,Technology,Accessories,3
+490,Second Class,Carl Weiss,Home Office,Texas,Central,Office Supplies,Art,3
+491,Standard Class,Astrea Jones,Consumer,New York,East,Office Supplies,Storage,1
+492,Standard Class,Astrea Jones,Consumer,New York,East,Office Supplies,Envelopes,1
+493,Standard Class,Sonia Sunley,Consumer,Washington,West,Technology,Accessories,1
+494,Second Class,Rose O'Brian,Consumer,Tennessee,South,Furniture,Tables,3
+495,Standard Class,Maribeth Dona,Consumer,Arkansas,South,Office Supplies,Envelopes,1
+496,Standard Class,Sanjit Chand,Consumer,California,West,Office Supplies,Binders,1
+497,Standard Class,Sanjit Chand,Consumer,California,West,Furniture,Furnishings,1
+498,Standard Class,Sanjit Chand,Consumer,California,West,Furniture,Chairs,1
+499,Standard Class,Sanjit Chand,Consumer,California,West,Furniture,Furnishings,1
+500,Standard Class,Maribeth Yedwab,Corporate,Colorado,West,Office Supplies,Binders,1
+501,Standard Class,Maribeth Yedwab,Corporate,Colorado,West,Office Supplies,Binders,1
+502,Standard Class,Maribeth Yedwab,Corporate,Colorado,West,Furniture,Chairs,1
+503,Standard Class,Maribeth Yedwab,Corporate,Colorado,West,Office Supplies,Binders,1
+504,Standard Class,Maribeth Yedwab,Corporate,Colorado,West,Office Supplies,Paper,1
+505,Second Class,Ed Braxton,Corporate,New York,East,Office Supplies,Binders,3
+506,Standard Class,Christopher Martinez,Consumer,Georgia,South,Office Supplies,Art,1
+507,Standard Class,Christopher Martinez,Consumer,Georgia,South,Office Supplies,Art,1
+508,Standard Class,Christopher Martinez,Consumer,Georgia,South,Office Supplies,Storage,1
+509,Standard Class,Christopher Martinez,Consumer,Georgia,South,Office Supplies,Binders,1
+510,First Class,Lynn Smith,Consumer,Missouri,Central,Furniture,Furnishings,4
+511,First Class,Lynn Smith,Consumer,Missouri,Central,Technology,Accessories,4
+512,First Class,Luke Foster,Consumer,Ohio,East,Office Supplies,Art,4
+513,Standard Class,Bradley Nguyen,Consumer,California,West,Office Supplies,Art,1
+514,Standard Class,Bradley Nguyen,Consumer,California,West,Office Supplies,Art,1
+515,Standard Class,Alan Dominguez,Home Office,Montana,West,Technology,Copiers,1
+516,Standard Class,Alan Dominguez,Home Office,Montana,West,Office Supplies,Storage,1
+517,Standard Class,Alan Dominguez,Home Office,Montana,West,Office Supplies,Paper,1
+518,Standard Class,Alan Dominguez,Home Office,Montana,West,Office Supplies,Storage,1
+519,Standard Class,Dean Braden,Consumer,Texas,Central,Technology,Accessories,1
+520,Standard Class,Dean Braden,Consumer,Texas,Central,Office Supplies,Storage,1
+521,Standard Class,Dean Braden,Consumer,Texas,Central,Office Supplies,Binders,1
+522,First Class,Matt Connell,Corporate,Michigan,Central,Furniture,Tables,4
+523,First Class,Logan Haushalter,Consumer,California,West,Technology,Phones,4
+524,First Class,Logan Haushalter,Consumer,California,West,Technology,Accessories,4
+525,Standard Class,Brian Dahlen,Consumer,Massachusetts,East,Office Supplies,Fasteners,1
+526,Standard Class,Patricia Hirasaki,Home Office,Florida,South,Furniture,Chairs,1
+527,Standard Class,Patricia Hirasaki,Home Office,Florida,South,Furniture,Furnishings,1
+528,Standard Class,Mike Gockenbach,Consumer,Pennsylvania,East,Office Supplies,Storage,1
+529,Standard Class,Mike Gockenbach,Consumer,Pennsylvania,East,Office Supplies,Supplies,1
+530,Standard Class,Mike Gockenbach,Consumer,Pennsylvania,East,Office Supplies,Envelopes,1
+531,Second Class,Karen Bern,Corporate,California,West,Furniture,Chairs,3
+532,Standard Class,Jasper Cacioppo,Consumer,California,West,Furniture,Furnishings,1
+533,Second Class,Rob Lucas,Consumer,Alabama,South,Technology,Phones,3
+534,Second Class,Rob Lucas,Consumer,Alabama,South,Office Supplies,Binders,3
+535,Standard Class,Allen Armold,Consumer,Arizona,West,Office Supplies,Storage,1
+536,Second Class,Emily Phan,Consumer,Illinois,Central,Office Supplies,Binders,3
+537,Standard Class,Mark Packer,Home Office,New York,East,Office Supplies,Binders,1
+538,Standard Class,Darren Koutras,Consumer,Kentucky,South,Office Supplies,Appliances,1
+539,Standard Class,Darren Koutras,Consumer,Kentucky,South,Furniture,Chairs,1
+540,First Class,Bradley Drucker,Consumer,Wisconsin,Central,Technology,Accessories,4
+541,First Class,Erin Smith,Corporate,Arizona,West,Technology,Phones,4
+542,Standard Class,Liz MacKendrick,Consumer,Ohio,East,Office Supplies,Storage,1
+543,Standard Class,Paul Gonzalez,Consumer,Texas,Central,Technology,Accessories,1
+544,Standard Class,Paul Gonzalez,Consumer,Texas,Central,Technology,Phones,1
+545,Standard Class,Paul Gonzalez,Consumer,Texas,Central,Furniture,Furnishings,1
+546,First Class,Adrian Shami,Home Office,New York,East,Office Supplies,Binders,4
+547,First Class,Adrian Shami,Home Office,New York,East,Office Supplies,Paper,4
+548,Second Class,Dean Katz,Corporate,Illinois,Central,Office Supplies,Storage,3
+549,Second Class,Dean Katz,Corporate,Illinois,Central,Office Supplies,Binders,3
+550,Second Class,Dean Katz,Corporate,Illinois,Central,Office Supplies,Supplies,3
+551,Second Class,Bill Donatelli,Consumer,California,West,Furniture,Chairs,3
+552,First Class,Ryan Crowe,Consumer,Florida,South,Furniture,Furnishings,4
+553,Standard Class,Greg Tran,Consumer,Texas,Central,Office Supplies,Fasteners,1
+554,Second Class,Dean Katz,Corporate,California,West,Office Supplies,Storage,3
+555,Second Class,Ashley Jarboe,Consumer,North Carolina,South,Office Supplies,Art,3
+556,Standard Class,Olvera Toch,Consumer,California,West,Office Supplies,Labels,1
+557,Standard Class,Olvera Toch,Consumer,California,West,Furniture,Tables,1
+558,Standard Class,Olvera Toch,Consumer,California,West,Office Supplies,Paper,1
+559,Second Class,Liz Pelletier,Consumer,California,West,Furniture,Furnishings,3
+560,Second Class,Liz Pelletier,Consumer,California,West,Office Supplies,Binders,3
+561,Second Class,Cynthia Arntzen,Consumer,Florida,South,Office Supplies,Appliances,3
+562,Second Class,Cynthia Arntzen,Consumer,Florida,South,Furniture,Furnishings,3
+563,First Class,Jeremy Farry,Consumer,Washington,West,Office Supplies,Fasteners,4
+564,First Class,Jeremy Farry,Consumer,Washington,West,Office Supplies,Labels,4
+565,First Class,Frank Preis,Consumer,California,West,Technology,Phones,4
+566,Standard Class,Ellis Ballard,Corporate,Washington,West,Office Supplies,Paper,1
+567,Standard Class,Ellis Ballard,Corporate,Washington,West,Office Supplies,Binders,1
+568,Standard Class,Ellis Ballard,Corporate,Washington,West,Office Supplies,Paper,1
+569,Standard Class,Ellis Ballard,Corporate,Washington,West,Furniture,Chairs,1
+570,Standard Class,Jennifer Ferguson,Consumer,New York,East,Office Supplies,Labels,1
+571,Standard Class,Jennifer Ferguson,Consumer,New York,East,Office Supplies,Fasteners,1
+572,Standard Class,Jennifer Ferguson,Consumer,New York,East,Office Supplies,Binders,1
+573,Standard Class,Jennifer Ferguson,Consumer,New York,East,Technology,Phones,1
+574,Standard Class,Sarah Foster,Consumer,Washington,West,Office Supplies,Art,1
+575,Second Class,Trudy Glocke,Consumer,California,West,Office Supplies,Paper,3
+576,Second Class,Trudy Glocke,Consumer,California,West,Office Supplies,Paper,3
+577,Second Class,Trudy Glocke,Consumer,California,West,Office Supplies,Supplies,3
+578,Standard Class,Carlos Soltero,Consumer,Illinois,Central,Office Supplies,Storage,1
+579,Standard Class,Carlos Soltero,Consumer,Illinois,Central,Furniture,Furnishings,1
+580,Standard Class,Charles Crestani,Consumer,California,West,Office Supplies,Supplies,1
+581,Standard Class,Dianna Vittorini,Consumer,Colorado,West,Technology,Phones,1
+582,Standard Class,Dianna Vittorini,Consumer,Colorado,West,Technology,Phones,1
+583,Standard Class,Dianna Vittorini,Consumer,Colorado,West,Office Supplies,Appliances,1
+584,Standard Class,Dianna Vittorini,Consumer,Colorado,West,Office Supplies,Binders,1
+585,Standard Class,Dianna Vittorini,Consumer,Colorado,West,Technology,Phones,1
+586,Standard Class,Bruce Degenhardt,Consumer,Kentucky,South,Furniture,Chairs,1
+587,Standard Class,Bruce Degenhardt,Consumer,Kentucky,South,Office Supplies,Labels,1
+588,Standard Class,Zuschuss Carroll,Consumer,Oregon,West,Technology,Phones,1
+589,Standard Class,Zuschuss Carroll,Consumer,Oregon,West,Office Supplies,Paper,1
+590,Standard Class,Zuschuss Carroll,Consumer,Oregon,West,Office Supplies,Binders,1
+591,Standard Class,Zuschuss Carroll,Consumer,Oregon,West,Office Supplies,Paper,1
+592,Standard Class,Melanie Seite,Consumer,Texas,Central,Office Supplies,Art,1
+593,Standard Class,Melanie Seite,Consumer,Texas,Central,Technology,Accessories,1
+594,Standard Class,Lena Radford,Consumer,California,West,Office Supplies,Appliances,1
+595,Standard Class,Lena Radford,Consumer,California,West,Technology,Copiers,1
+596,Standard Class,Lena Radford,Consumer,California,West,Technology,Phones,1
+597,Standard Class,Lena Radford,Consumer,California,West,Furniture,Furnishings,1
+598,First Class,Theone Pippenger,Consumer,Pennsylvania,East,Office Supplies,Supplies,4
+599,Standard Class,Chloris Kastensmidt,Consumer,Pennsylvania,East,Technology,Phones,1
+600,Standard Class,Chloris Kastensmidt,Consumer,Pennsylvania,East,Technology,Phones,1
+601,Standard Class,Chloris Kastensmidt,Consumer,Pennsylvania,East,Office Supplies,Supplies,1
+602,Standard Class,Alan Shonely,Consumer,Florida,South,Office Supplies,Storage,1
+603,Standard Class,Alan Shonely,Consumer,Florida,South,Furniture,Furnishings,1
+604,Standard Class,Alan Shonely,Consumer,Florida,South,Office Supplies,Binders,1
+605,Standard Class,Alan Shonely,Consumer,Florida,South,Office Supplies,Binders,1
+606,Standard Class,Alan Shonely,Consumer,Florida,South,Office Supplies,Paper,1
+607,Standard Class,Andrew Roberts,Consumer,Pennsylvania,East,Office Supplies,Binders,1
+608,Standard Class,Andrew Roberts,Consumer,Pennsylvania,East,Office Supplies,Art,1
+609,Standard Class,Andrew Roberts,Consumer,Pennsylvania,East,Technology,Phones,1
+610,First Class,Nona Balk,Corporate,Texas,Central,Technology,Phones,4
+611,First Class,Nona Balk,Corporate,Texas,Central,Office Supplies,Labels,4
+612,Second Class,Giulietta Dortch,Corporate,Pennsylvania,East,Office Supplies,Paper,3
+613,Second Class,Giulietta Dortch,Corporate,Pennsylvania,East,Technology,Phones,3
+614,Second Class,Clytie Kelty,Consumer,Ohio,East,Technology,Phones,3
+615,Second Class,Clytie Kelty,Consumer,Ohio,East,Office Supplies,Binders,3
+616,Second Class,Nat Gilpin,Corporate,New York,East,Furniture,Furnishings,3
+617,Second Class,Nat Gilpin,Corporate,New York,East,Furniture,Furnishings,3
+618,Second Class,Nat Gilpin,Corporate,New York,East,Office Supplies,Binders,3
+619,Second Class,Nat Gilpin,Corporate,New York,East,Technology,Phones,3
+620,Second Class,Nat Gilpin,Corporate,New York,East,Furniture,Furnishings,3
+621,Standard Class,Christina Anderson,Consumer,Illinois,Central,Office Supplies,Binders,1
+622,Standard Class,Sylvia Foulston,Corporate,Michigan,Central,Furniture,Chairs,1
+623,Standard Class,Sylvia Foulston,Corporate,Michigan,Central,Office Supplies,Appliances,1
+624,Standard Class,Sylvia Foulston,Corporate,Michigan,Central,Office Supplies,Storage,1
+625,Standard Class,Sylvia Foulston,Corporate,Michigan,Central,Office Supplies,Art,1
+626,Standard Class,Meg O'Connel,Home Office,New York,East,Furniture,Furnishings,1
+627,Standard Class,Annie Thurman,Consumer,Washington,West,Office Supplies,Appliances,1
+628,Standard Class,Logan Currie,Consumer,California,West,Office Supplies,Binders,1
+629,Standard Class,Logan Currie,Consumer,California,West,Office Supplies,Paper,1
+630,Second Class,Fred McMath,Consumer,Colorado,West,Office Supplies,Storage,3
+631,Second Class,Fred McMath,Consumer,Colorado,West,Technology,Accessories,3
+632,Second Class,Fred McMath,Consumer,Colorado,West,Technology,Phones,3
+633,Second Class,Brian Dahlen,Consumer,Florida,South,Technology,Accessories,3
+634,Second Class,Brian Dahlen,Consumer,Florida,South,Office Supplies,Labels,3
+635,Second Class,Denny Joy,Corporate,Georgia,South,Furniture,Chairs,3
+636,Standard Class,Max Engle,Consumer,Colorado,West,Office Supplies,Binders,1
+637,Standard Class,Max Engle,Consumer,Colorado,West,Office Supplies,Appliances,1
+638,Standard Class,Rick Bensley,Home Office,California,West,Furniture,Furnishings,1
+639,Standard Class,Rick Bensley,Home Office,California,West,Office Supplies,Binders,1
+640,Standard Class,Justin Deggeller,Corporate,Minnesota,Central,Furniture,Furnishings,1
+641,Second Class,John Lee,Consumer,California,West,Office Supplies,Storage,3
+642,Second Class,John Lee,Consumer,California,West,Office Supplies,Labels,3
+643,Standard Class,Sean Christensen,Consumer,Michigan,Central,Technology,Accessories,1
+644,Standard Class,Tamara Willingham,Home Office,New Jersey,East,Office Supplies,Paper,1
+645,Standard Class,Chuck Clark,Home Office,Indiana,Central,Office Supplies,Appliances,1
+646,Standard Class,Barry Blumstein,Corporate,Arizona,West,Office Supplies,Fasteners,1
+647,Standard Class,Barry Blumstein,Corporate,Arizona,West,Office Supplies,Appliances,1
+648,Second Class,Anthony Rawles,Corporate,Washington,West,Furniture,Furnishings,3
+649,Second Class,Anthony Rawles,Corporate,Washington,West,Technology,Phones,3
+650,Second Class,Anthony Rawles,Corporate,Washington,West,Technology,Accessories,3
+651,Standard Class,Steven Roelle,Home Office,New York,East,Office Supplies,Paper,1
+652,Standard Class,Allen Rosenblatt,Corporate,New York,East,Office Supplies,Paper,1
+653,Standard Class,Allen Rosenblatt,Corporate,New York,East,Technology,Accessories,1
+654,Standard Class,Craig Reiter,Consumer,Ohio,East,Office Supplies,Appliances,1
+655,Standard Class,Craig Reiter,Consumer,Ohio,East,Office Supplies,Binders,1
+656,Standard Class,Craig Reiter,Consumer,Ohio,East,Office Supplies,Envelopes,1
+657,Same Day,Eugene Hildebrand,Home Office,Illinois,Central,Furniture,Chairs,2
+658,Same Day,Eugene Hildebrand,Home Office,Illinois,Central,Office Supplies,Binders,2
+659,Standard Class,Cassandra Brandow,Consumer,Texas,Central,Office Supplies,Storage,1
+660,Standard Class,Cassandra Brandow,Consumer,Texas,Central,Office Supplies,Storage,1
+661,Standard Class,Cassandra Brandow,Consumer,Texas,Central,Furniture,Tables,1
+662,Standard Class,Cassandra Brandow,Consumer,Texas,Central,Office Supplies,Binders,1
+663,Standard Class,Sibella Parks,Corporate,New York,East,Office Supplies,Storage,1
+664,Same Day,Roy Collins,Consumer,Kentucky,South,Office Supplies,Fasteners,2
+665,Second Class,Tiffany House,Corporate,Texas,Central,Office Supplies,Supplies,3
+666,Second Class,Tiffany House,Corporate,Texas,Central,Office Supplies,Paper,3
+667,Second Class,Tiffany House,Corporate,Texas,Central,Technology,Phones,3
+668,First Class,Resi Pölking,Consumer,Ohio,East,Furniture,Furnishings,4
+669,Standard Class,Meg O'Connel,Home Office,Illinois,Central,Furniture,Furnishings,1
+670,Standard Class,Meg O'Connel,Home Office,Illinois,Central,Furniture,Tables,1
+671,Standard Class,Meg O'Connel,Home Office,Illinois,Central,Office Supplies,Paper,1
+672,Standard Class,Tamara Dahlen,Consumer,Illinois,Central,Office Supplies,Art,1
+673,First Class,Rob Beeghly,Consumer,Indiana,Central,Office Supplies,Appliances,4
+674,First Class,Rob Beeghly,Consumer,Indiana,Central,Office Supplies,Paper,4
+675,First Class,Rob Beeghly,Consumer,Indiana,Central,Technology,Accessories,4
+676,Standard Class,Carol Darley,Consumer,Texas,Central,Office Supplies,Appliances,1
+677,Standard Class,Carol Darley,Consumer,Texas,Central,Technology,Accessories,1
+678,Standard Class,Carol Darley,Consumer,Texas,Central,Furniture,Furnishings,1
+679,Standard Class,Carol Darley,Consumer,Texas,Central,Office Supplies,Binders,1
+680,Standard Class,Doug Jacobs,Consumer,New York,East,Office Supplies,Binders,1
+681,Standard Class,Doug Jacobs,Consumer,New York,East,Office Supplies,Storage,1
+682,Standard Class,Doug Jacobs,Consumer,New York,East,Office Supplies,Storage,1
+683,Same Day,Grant Thornton,Corporate,North Carolina,South,Technology,Machines,2
+684,Same Day,Grant Thornton,Corporate,North Carolina,South,Office Supplies,Appliances,2
+685,First Class,Michael Chen,Consumer,Mississippi,South,Technology,Accessories,4
+686,First Class,Michael Chen,Consumer,Mississippi,South,Office Supplies,Labels,4
+687,First Class,Michael Chen,Consumer,Mississippi,South,Office Supplies,Paper,4
+688,Standard Class,Ralph Arnett,Consumer,New York,East,Furniture,Bookcases,1
+689,Second Class,Naresj Patel,Consumer,Virginia,South,Furniture,Furnishings,3
+690,Second Class,Naresj Patel,Consumer,Virginia,South,Technology,Phones,3
+691,Second Class,Naresj Patel,Consumer,Virginia,South,Office Supplies,Storage,3
+692,Standard Class,Alan Barnes,Consumer,California,West,Technology,Accessories,1
+693,Standard Class,Alan Barnes,Consumer,California,West,Office Supplies,Paper,1
+694,First Class,Jesus Ocampo,Home Office,Pennsylvania,East,Office Supplies,Art,4
+695,First Class,Jesus Ocampo,Home Office,Pennsylvania,East,Office Supplies,Labels,4
+696,First Class,Jesus Ocampo,Home Office,Pennsylvania,East,Office Supplies,Envelopes,4
+697,First Class,Jesus Ocampo,Home Office,Pennsylvania,East,Office Supplies,Labels,4
+698,First Class,Jesus Ocampo,Home Office,Pennsylvania,East,Office Supplies,Art,4
+699,First Class,Jesus Ocampo,Home Office,Pennsylvania,East,Office Supplies,Binders,4
+700,First Class,Jesus Ocampo,Home Office,Pennsylvania,East,Office Supplies,Binders,4
+701,Standard Class,Dorris liebe,Corporate,Ohio,East,Furniture,Furnishings,1
+702,Second Class,Alejandro Savely,Corporate,Washington,West,Furniture,Furnishings,3
+703,Standard Class,Jay Kimmel,Consumer,California,West,Furniture,Tables,1
+704,Standard Class,Brad Norvell,Corporate,North Carolina,South,Office Supplies,Paper,1
+705,Standard Class,Brad Norvell,Corporate,North Carolina,South,Office Supplies,Appliances,1
+706,Standard Class,Brad Norvell,Corporate,North Carolina,South,Technology,Accessories,1
+707,First Class,David Philippe,Consumer,New York,East,Technology,Accessories,4
+708,First Class,David Philippe,Consumer,New York,East,Furniture,Bookcases,4
+709,First Class,David Philippe,Consumer,New York,East,Office Supplies,Binders,4
+710,First Class,Tracy Hopkins,Home Office,New York,East,Office Supplies,Paper,4
+711,Standard Class,Arthur Prichep,Consumer,Florida,South,Office Supplies,Envelopes,1
+712,Standard Class,Roland Schwarz,Corporate,New York,East,Office Supplies,Appliances,1
+713,Standard Class,Roland Schwarz,Corporate,New York,East,Technology,Phones,1
+714,Standard Class,Roland Schwarz,Corporate,New York,East,Technology,Accessories,1
+715,Second Class,Dorris liebe,Corporate,Washington,West,Office Supplies,Binders,3
+716,First Class,Seth Vernon,Consumer,Delaware,East,Furniture,Furnishings,4
+717,Standard Class,Kelly Collister,Consumer,Ohio,East,Furniture,Furnishings,1
+718,Standard Class,Christine Kargatis,Home Office,Utah,West,Office Supplies,Binders,1
+719,Standard Class,Christine Kargatis,Home Office,Utah,West,Furniture,Furnishings,1
+720,Standard Class,Ross DeVincentis,Home Office,California,West,Office Supplies,Paper,1
+721,Standard Class,Michael Paige,Corporate,Michigan,Central,Furniture,Tables,1
+722,Standard Class,Michael Paige,Corporate,Michigan,Central,Office Supplies,Storage,1
+723,Standard Class,Mathew Reese,Home Office,Pennsylvania,East,Furniture,Furnishings,1
+724,Standard Class,Steve Chapman,Corporate,Florida,South,Office Supplies,Supplies,1
+725,Standard Class,Jay Fein,Consumer,Texas,Central,Office Supplies,Envelopes,1
+726,Standard Class,Jay Fein,Consumer,Texas,Central,Technology,Phones,1
+727,First Class,Emily Grady,Consumer,New York,East,Office Supplies,Paper,4
+728,First Class,Emily Grady,Consumer,New York,East,Furniture,Tables,4
+729,First Class,Emily Grady,Consumer,New York,East,Office Supplies,Storage,4
+730,First Class,Emily Grady,Consumer,New York,East,Furniture,Chairs,4
+731,First Class,Emily Grady,Consumer,New York,East,Office Supplies,Labels,4
+732,Standard Class,Darrin Sayre,Home Office,Washington,West,Office Supplies,Storage,1
+733,Standard Class,Darrin Sayre,Home Office,Washington,West,Technology,Accessories,1
+734,Standard Class,Darrin Sayre,Home Office,Washington,West,Office Supplies,Binders,1
+735,Standard Class,Darrin Sayre,Home Office,Washington,West,Office Supplies,Binders,1
+736,Standard Class,Darrin Sayre,Home Office,Washington,West,Furniture,Bookcases,1
+737,Standard Class,Darrin Sayre,Home Office,Washington,West,Office Supplies,Binders,1
+738,Standard Class,Gary Zandusky,Consumer,California,West,Technology,Accessories,1
+739,Standard Class,Phillina Ober,Home Office,Illinois,Central,Office Supplies,Labels,1
+740,Standard Class,Phillina Ober,Home Office,Illinois,Central,Office Supplies,Storage,1
+741,Standard Class,Phillina Ober,Home Office,Illinois,Central,Office Supplies,Binders,1
+742,Standard Class,Sung Shariari,Consumer,Texas,Central,Office Supplies,Supplies,1
+743,Standard Class,Sung Shariari,Consumer,Texas,Central,Office Supplies,Paper,1
+744,Standard Class,Sung Shariari,Consumer,Texas,Central,Office Supplies,Paper,1
+745,Standard Class,Sung Shariari,Consumer,Texas,Central,Office Supplies,Supplies,1
+746,Same Day,Maya Herman,Corporate,California,West,Furniture,Tables,2
+747,Same Day,Maya Herman,Corporate,California,West,Office Supplies,Storage,2
+748,Second Class,Peter Bühler,Consumer,Illinois,Central,Technology,Phones,3
+749,Standard Class,Roland Fjeld,Consumer,Michigan,Central,Office Supplies,Binders,1
+750,Standard Class,Roland Fjeld,Consumer,Michigan,Central,Furniture,Furnishings,1
+751,Standard Class,Roland Fjeld,Consumer,Michigan,Central,Office Supplies,Art,1
+752,Standard Class,Roland Fjeld,Consumer,Michigan,Central,Office Supplies,Binders,1
+753,First Class,Yoseph Carroll,Corporate,California,West,Technology,Copiers,4
+754,Standard Class,Melanie Seite,Consumer,California,West,Furniture,Furnishings,1
+755,Standard Class,Nona Balk,Corporate,Florida,South,Furniture,Tables,1
+756,Standard Class,Debra Catini,Consumer,Minnesota,Central,Office Supplies,Storage,1
+757,Standard Class,Debra Catini,Consumer,Minnesota,Central,Technology,Accessories,1
+758,Standard Class,Christine Phan,Corporate,New York,East,Office Supplies,Binders,1
+759,Standard Class,Barry Französisch,Corporate,Wisconsin,Central,Office Supplies,Paper,1
+760,Standard Class,Andrew Roberts,Consumer,California,West,Office Supplies,Paper,1
+761,Standard Class,Julie Creighton,Corporate,Georgia,South,Office Supplies,Labels,1
+762,Standard Class,Lisa Hazard,Consumer,Ohio,East,Technology,Phones,1
+763,Second Class,Chris Selesnick,Corporate,Louisiana,South,Office Supplies,Envelopes,3
+764,Second Class,Chris Selesnick,Corporate,Louisiana,South,Office Supplies,Envelopes,3
+765,Second Class,Chris Selesnick,Corporate,Louisiana,South,Technology,Accessories,3
+766,Second Class,Chris Selesnick,Corporate,Louisiana,South,Office Supplies,Binders,3
+767,Second Class,Chris Selesnick,Corporate,Louisiana,South,Office Supplies,Storage,3
+768,Standard Class,Anthony Johnson,Corporate,Florida,South,Furniture,Furnishings,1
+769,Standard Class,Laurel Elliston,Consumer,Virginia,South,Furniture,Chairs,1
+770,Standard Class,Benjamin Venier,Corporate,Iowa,Central,Office Supplies,Binders,1
+771,Standard Class,Benjamin Venier,Corporate,Iowa,Central,Technology,Phones,1
+772,Standard Class,Benjamin Venier,Corporate,Iowa,Central,Office Supplies,Binders,1
+773,Standard Class,Benjamin Venier,Corporate,Iowa,Central,Office Supplies,Binders,1
+774,Standard Class,Benjamin Venier,Corporate,Iowa,Central,Office Supplies,Art,1
+775,Standard Class,Benjamin Venier,Corporate,Iowa,Central,Furniture,Furnishings,1
+776,Standard Class,Dan Lawera,Consumer,Ohio,East,Office Supplies,Art,1
+777,First Class,Nick Zandusky,Home Office,California,West,Furniture,Chairs,4
+778,First Class,Nick Zandusky,Home Office,California,West,Office Supplies,Paper,4
+779,First Class,Nick Zandusky,Home Office,California,West,Office Supplies,Paper,4
+780,First Class,Nick Zandusky,Home Office,California,West,Office Supplies,Paper,4
+781,Second Class,Bryan Mills,Consumer,Ohio,East,Office Supplies,Binders,3
+782,Second Class,Bryan Mills,Consumer,Ohio,East,Technology,Accessories,3
+783,Second Class,Bryan Mills,Consumer,Ohio,East,Furniture,Bookcases,3
+784,Second Class,Bryan Mills,Consumer,Ohio,East,Technology,Accessories,3
+785,Standard Class,Erin Ashbrook,Corporate,South Carolina,South,Office Supplies,Envelopes,1
+786,Second Class,Clay Ludtke,Consumer,California,West,Office Supplies,Binders,3
+787,Standard Class,Liz Thompson,Consumer,California,West,Furniture,Chairs,1
+788,Standard Class,Sue Ann Reed,Consumer,Virginia,South,Office Supplies,Binders,1
+789,Standard Class,Sue Ann Reed,Consumer,Virginia,South,Office Supplies,Storage,1
+790,Standard Class,Sue Ann Reed,Consumer,Virginia,South,Office Supplies,Binders,1
+791,Standard Class,Sue Ann Reed,Consumer,Virginia,South,Furniture,Chairs,1
+792,Same Day,Joe Kamberova,Consumer,North Carolina,South,Technology,Phones,2
+793,Standard Class,Erica Smith,Consumer,California,West,Office Supplies,Labels,1
+794,Standard Class,Erica Smith,Consumer,California,West,Office Supplies,Paper,1
+795,Standard Class,Rick Hansen,Consumer,Minnesota,Central,Office Supplies,Binders,1
+796,First Class,David Bremer,Corporate,New York,East,Office Supplies,Paper,4
+797,First Class,David Bremer,Corporate,New York,East,Office Supplies,Paper,4
+798,First Class,David Bremer,Corporate,New York,East,Office Supplies,Labels,4
+799,Standard Class,Carlos Daly,Consumer,California,West,Furniture,Chairs,1
+800,First Class,Helen Wasserman,Corporate,California,West,Furniture,Furnishings,4
+801,First Class,Helen Wasserman,Corporate,California,West,Technology,Phones,4
+802,Second Class,Helen Wasserman,Corporate,New York,East,Office Supplies,Appliances,3
+803,Standard Class,Mike Caudle,Corporate,Louisiana,South,Office Supplies,Paper,1
+804,First Class,Gary McGarr,Consumer,California,West,Furniture,Furnishings,4
+805,Standard Class,Russell Applegate,Consumer,Colorado,West,Office Supplies,Art,1
+806,Standard Class,Russell Applegate,Consumer,Colorado,West,Technology,Phones,1
+807,First Class,Allen Armold,Consumer,Nebraska,Central,Furniture,Furnishings,4
+808,First Class,Allen Armold,Consumer,Nebraska,Central,Technology,Accessories,4
+809,First Class,Zuschuss Carroll,Consumer,Washington,West,Office Supplies,Art,4
+810,First Class,Zuschuss Carroll,Consumer,Washington,West,Furniture,Tables,4
+811,First Class,Zuschuss Carroll,Consumer,Washington,West,Office Supplies,Appliances,4
+812,First Class,Zuschuss Carroll,Consumer,Washington,West,Technology,Accessories,4
+813,Same Day,Pauline Johnson,Consumer,California,West,Furniture,Furnishings,2
+814,Same Day,Pauline Johnson,Consumer,California,West,Technology,Accessories,2
+815,First Class,Bart Watters,Corporate,Wisconsin,Central,Office Supplies,Paper,4
+816,Standard Class,Dean Braden,Consumer,Pennsylvania,East,Office Supplies,Paper,1
+817,Standard Class,Cynthia Arntzen,Consumer,Pennsylvania,East,Office Supplies,Paper,1
+818,Standard Class,Cynthia Arntzen,Consumer,Pennsylvania,East,Office Supplies,Binders,1
+819,Standard Class,Cynthia Arntzen,Consumer,Pennsylvania,East,Furniture,Chairs,1
+820,Standard Class,Cynthia Arntzen,Consumer,Pennsylvania,East,Office Supplies,Binders,1
+821,Standard Class,Cynthia Arntzen,Consumer,Pennsylvania,East,Office Supplies,Paper,1
+822,Standard Class,Toby Ritter,Consumer,New Jersey,East,Technology,Accessories,1
+823,Standard Class,Toby Ritter,Consumer,New Jersey,East,Office Supplies,Labels,1
+824,Standard Class,Patrick Gardner,Consumer,California,West,Technology,Accessories,1
+825,Standard Class,Patrick Gardner,Consumer,California,West,Technology,Accessories,1
+826,Standard Class,Greg Tran,Consumer,Minnesota,Central,Office Supplies,Fasteners,1
+827,Standard Class,Greg Tran,Consumer,Minnesota,Central,Office Supplies,Supplies,1
+828,Standard Class,Greg Tran,Consumer,Minnesota,Central,Office Supplies,Envelopes,1
+829,Second Class,Joel Eaton,Consumer,Kentucky,South,Furniture,Chairs,3
+830,Second Class,Joel Eaton,Consumer,Kentucky,South,Office Supplies,Appliances,3
+831,Second Class,Joel Eaton,Consumer,Kentucky,South,Technology,Phones,3
+832,Second Class,Joel Eaton,Consumer,Kentucky,South,Technology,Phones,3
+833,Standard Class,Jennifer Braxton,Corporate,Florida,South,Office Supplies,Art,1
+834,Standard Class,Jennifer Braxton,Corporate,Florida,South,Office Supplies,Appliances,1
+835,Standard Class,Jennifer Braxton,Corporate,Florida,South,Technology,Machines,1
+836,Second Class,Lisa Hazard,Consumer,Texas,Central,Office Supplies,Binders,3
+837,Standard Class,James Lanier,Home Office,Tennessee,South,Office Supplies,Paper,1
+838,Standard Class,Ed Braxton,Corporate,Texas,Central,Technology,Phones,1
+839,Standard Class,Brian Moss,Corporate,New York,East,Office Supplies,Art,1
+840,Standard Class,Brian Moss,Corporate,New York,East,Office Supplies,Art,1
+841,Standard Class,Brian Moss,Corporate,New York,East,Furniture,Bookcases,1
+842,First Class,Eudokia Martin,Corporate,California,West,Office Supplies,Binders,4
+843,First Class,Eudokia Martin,Corporate,California,West,Office Supplies,Binders,4
+844,First Class,Eudokia Martin,Corporate,California,West,Office Supplies,Supplies,4
+845,First Class,Eudokia Martin,Corporate,California,West,Office Supplies,Labels,4
+846,Standard Class,Art Foster,Consumer,Kentucky,South,Technology,Phones,1
+847,Standard Class,Art Foster,Consumer,Kentucky,South,Furniture,Chairs,1
+848,Standard Class,Guy Armstrong,Consumer,Ohio,East,Furniture,Furnishings,1
+849,Standard Class,Cyma Kinney,Corporate,New Jersey,East,Technology,Accessories,1
+850,Second Class,Dave Poirier,Corporate,California,West,Office Supplies,Art,3
+851,Second Class,Dave Poirier,Corporate,California,West,Office Supplies,Paper,3
+852,Standard Class,Valerie Dominguez,Consumer,Mississippi,South,Office Supplies,Art,1
+853,Standard Class,Greg Tran,Consumer,New York,East,Furniture,Furnishings,1
+854,Standard Class,Greg Tran,Consumer,New York,East,Office Supplies,Storage,1
+855,Standard Class,Berenike Kampe,Consumer,New York,East,Office Supplies,Paper,1
+856,Standard Class,Berenike Kampe,Consumer,New York,East,Office Supplies,Supplies,1
+857,Standard Class,Berenike Kampe,Consumer,New York,East,Office Supplies,Storage,1
+858,Standard Class,Sanjit Jacobs,Home Office,New Jersey,East,Office Supplies,Paper,1
+859,Standard Class,Sanjit Jacobs,Home Office,New Jersey,East,Office Supplies,Fasteners,1
+860,Standard Class,Chuck Magee,Consumer,California,West,Office Supplies,Supplies,1
+861,Standard Class,Chuck Magee,Consumer,California,West,Office Supplies,Art,1
+862,Second Class,Anthony Johnson,Corporate,Florida,South,Technology,Accessories,3
+863,Second Class,Anthony Johnson,Corporate,Florida,South,Office Supplies,Art,3
+864,Second Class,Anthony Johnson,Corporate,Florida,South,Technology,Phones,3
+865,Standard Class,Anthony Jacobs,Corporate,Virginia,South,Office Supplies,Labels,1
+866,Standard Class,Anthony Jacobs,Corporate,Virginia,South,Furniture,Furnishings,1
+867,First Class,Linda Southworth,Corporate,Pennsylvania,East,Office Supplies,Labels,4
+868,Standard Class,Guy Phonely,Corporate,Pennsylvania,East,Office Supplies,Binders,1
+869,First Class,Paul Knutson,Home Office,Pennsylvania,East,Office Supplies,Binders,4
+870,First Class,Paul Knutson,Home Office,Pennsylvania,East,Technology,Phones,4
+871,First Class,Tracy Blumstein,Consumer,New Hampshire,East,Office Supplies,Paper,4
+872,Standard Class,Sally Matthias,Consumer,New York,East,Office Supplies,Paper,1
+873,Standard Class,Sally Matthias,Consumer,New York,East,Office Supplies,Binders,1
+874,Standard Class,Guy Armstrong,Consumer,North Carolina,South,Office Supplies,Paper,1
+875,Standard Class,Chuck Clark,Home Office,New Hampshire,East,Furniture,Furnishings,1
+876,Standard Class,Chuck Clark,Home Office,New Hampshire,East,Technology,Accessories,1
+877,Standard Class,Chuck Clark,Home Office,New Hampshire,East,Technology,Accessories,1
+878,Standard Class,Anthony Garverick,Home Office,Pennsylvania,East,Office Supplies,Binders,1
+879,Second Class,Harold Pawlan,Home Office,New York,East,Office Supplies,Binders,3
+880,Second Class,Harold Pawlan,Home Office,New York,East,Furniture,Chairs,3
+881,Standard Class,Dave Kipp,Consumer,Virginia,South,Office Supplies,Storage,1
+882,Same Day,Gary Zandusky,Consumer,California,West,Office Supplies,Art,2
+883,First Class,Peter McVee,Home Office,Michigan,Central,Furniture,Furnishings,4
+884,Standard Class,Lauren Leatherbury,Consumer,New York,East,Furniture,Furnishings,1
+885,Second Class,Jill Stevenson,Corporate,California,West,Office Supplies,Binders,3
+886,Standard Class,Olvera Toch,Consumer,California,West,Office Supplies,Storage,1
+887,Standard Class,Ed Ludwig,Home Office,Maryland,East,Office Supplies,Binders,1
+888,Standard Class,Cyma Kinney,Corporate,California,West,Office Supplies,Paper,1
+889,Standard Class,Jeremy Ellison,Consumer,New York,East,Technology,Accessories,1
+890,Standard Class,Jeremy Ellison,Consumer,New York,East,Office Supplies,Binders,1
+891,First Class,Tracy Hopkins,Home Office,Michigan,Central,Office Supplies,Paper,4
+892,First Class,Tracy Hopkins,Home Office,Michigan,Central,Office Supplies,Art,4
+893,First Class,Tracy Hopkins,Home Office,Michigan,Central,Technology,Phones,4
+894,First Class,Pamela Coakley,Corporate,California,West,Office Supplies,Storage,4
+895,First Class,Pamela Coakley,Corporate,California,West,Office Supplies,Binders,4
+896,Second Class,Hunter Lopez,Consumer,Texas,Central,Office Supplies,Envelopes,3
+897,Standard Class,Maribeth Schnelling,Consumer,Michigan,Central,Office Supplies,Labels,1
+898,Second Class,George Bell,Corporate,New York,East,Office Supplies,Paper,3
+899,First Class,Justin Ritter,Corporate,Ohio,East,Office Supplies,Binders,4
+900,First Class,Tamara Dahlen,Consumer,Texas,Central,Office Supplies,Labels,4
+901,First Class,Tamara Dahlen,Consumer,Texas,Central,Office Supplies,Binders,4
+902,First Class,Dave Brooks,Consumer,Illinois,Central,Technology,Phones,4
+903,Standard Class,Logan Currie,Consumer,California,West,Office Supplies,Paper,1
+904,Standard Class,Logan Currie,Consumer,California,West,Office Supplies,Storage,1
+905,Standard Class,Logan Currie,Consumer,California,West,Office Supplies,Paper,1
+906,Standard Class,Patrick O'Donnell,Consumer,New York,East,Furniture,Bookcases,1
+907,Standard Class,Patrick O'Donnell,Consumer,New York,East,Technology,Phones,1
+908,Standard Class,Patrick O'Donnell,Consumer,New York,East,Office Supplies,Binders,1
+909,Standard Class,Bill Eplett,Home Office,Michigan,Central,Technology,Phones,1
+910,Standard Class,Bill Eplett,Home Office,Michigan,Central,Technology,Accessories,1
+911,Standard Class,Bill Eplett,Home Office,Michigan,Central,Office Supplies,Storage,1
+912,Standard Class,Sample Company A,Home Office,Connecticut,East,Furniture,Furnishings,1
+913,First Class,Brian Moss,Corporate,Wisconsin,Central,Furniture,Furnishings,4
+914,First Class,Brian Moss,Corporate,Wisconsin,Central,Technology,Accessories,4
+915,Standard Class,Kelly Lampkin,Corporate,Texas,Central,Furniture,Tables,1
+916,Standard Class,Kelly Lampkin,Corporate,Texas,Central,Furniture,Chairs,1
+917,Standard Class,Kelly Lampkin,Corporate,Texas,Central,Office Supplies,Binders,1
+918,Standard Class,Rob Williams,Corporate,Texas,Central,Office Supplies,Envelopes,1
+919,Standard Class,Rob Williams,Corporate,Texas,Central,Office Supplies,Storage,1
+920,Standard Class,Roy Collins,Consumer,Virginia,South,Office Supplies,Storage,1
+921,Standard Class,Sanjit Engle,Consumer,New York,East,Technology,Accessories,1
+922,Standard Class,Sanjit Engle,Consumer,New York,East,Technology,Phones,1
+923,Standard Class,Sanjit Engle,Consumer,New York,East,Office Supplies,Appliances,1
+924,Standard Class,Adam Hart,Corporate,New York,East,Office Supplies,Binders,1
+925,First Class,Jessica Myrick,Consumer,Pennsylvania,East,Office Supplies,Paper,4
+926,First Class,Jessica Myrick,Consumer,Pennsylvania,East,Technology,Accessories,4
+927,Standard Class,Joel Jenkins,Home Office,Virginia,South,Office Supplies,Art,1
+928,Standard Class,Joel Jenkins,Home Office,Virginia,South,Office Supplies,Appliances,1
+929,First Class,Alan Barnes,Consumer,Ohio,East,Office Supplies,Art,4
+930,First Class,Alan Barnes,Consumer,Ohio,East,Office Supplies,Art,4
+931,First Class,Alan Barnes,Consumer,Ohio,East,Office Supplies,Paper,4
+932,Standard Class,Ralph Kennedy,Consumer,Pennsylvania,East,Office Supplies,Paper,1
+933,Standard Class,Catherine Glotzbach,Home Office,Pennsylvania,East,Office Supplies,Paper,1
+934,Standard Class,Catherine Glotzbach,Home Office,Pennsylvania,East,Office Supplies,Binders,1
+935,Standard Class,Catherine Glotzbach,Home Office,Pennsylvania,East,Office Supplies,Paper,1
+936,Standard Class,Catherine Glotzbach,Home Office,Pennsylvania,East,Office Supplies,Appliances,1
+937,First Class,Ruben Ausman,Corporate,New Mexico,West,Technology,Accessories,4
+938,Standard Class,Rachel Payne,Corporate,California,West,Office Supplies,Paper,1
+939,Standard Class,Rachel Payne,Corporate,California,West,Office Supplies,Appliances,1
+940,First Class,Karen Carlisle,Corporate,California,West,Office Supplies,Paper,4
+941,Standard Class,Rob Williams,Corporate,California,West,Office Supplies,Binders,1
+942,Standard Class,Rob Williams,Corporate,California,West,Furniture,Tables,1
+943,Standard Class,John Lucas,Consumer,Washington,West,Office Supplies,Paper,1
+944,Standard Class,John Lucas,Consumer,Washington,West,Office Supplies,Storage,1
+945,Standard Class,John Lucas,Consumer,Washington,West,Office Supplies,Binders,1
+946,First Class,Cynthia Arntzen,Consumer,Arizona,West,Furniture,Tables,4
+947,Standard Class,Ross Baird,Home Office,Pennsylvania,East,Furniture,Furnishings,1
+948,Standard Class,Ross Baird,Home Office,Pennsylvania,East,Furniture,Furnishings,1
+949,Standard Class,Ross Baird,Home Office,Pennsylvania,East,Furniture,Tables,1
+950,Standard Class,Ross Baird,Home Office,Pennsylvania,East,Office Supplies,Paper,1
+951,Standard Class,Ross Baird,Home Office,Pennsylvania,East,Office Supplies,Paper,1
+952,Standard Class,Katherine Hughes,Consumer,Pennsylvania,East,Furniture,Furnishings,1
+953,Standard Class,Greg Hansen,Consumer,Texas,Central,Office Supplies,Art,1
+954,Standard Class,Greg Hansen,Consumer,Texas,Central,Furniture,Bookcases,1
+955,Standard Class,Scott Williamson,Consumer,Mississippi,South,Office Supplies,Storage,1
+956,Second Class,Joseph Airdo,Consumer,Arizona,West,Technology,Phones,3
+957,Second Class,Joseph Airdo,Consumer,Arizona,West,Office Supplies,Binders,3
+958,Second Class,Joseph Airdo,Consumer,Arizona,West,Office Supplies,Paper,3
+959,Same Day,Daniel Lacy,Consumer,California,West,Furniture,Furnishings,2
+960,Standard Class,Lindsay Williams,Corporate,California,West,Furniture,Chairs,1
+961,Standard Class,Thomas Brumley,Home Office,Arkansas,South,Office Supplies,Binders,1
+962,First Class,Cynthia Voltz,Corporate,California,West,Office Supplies,Envelopes,4
+963,Second Class,Maribeth Schnelling,Consumer,Florida,South,Office Supplies,Labels,3
+964,First Class,Bryan Spruell,Home Office,New York,East,Office Supplies,Labels,4
+965,First Class,Bryan Spruell,Home Office,New York,East,Office Supplies,Art,4
+966,First Class,Bryan Spruell,Home Office,New York,East,Office Supplies,Paper,4
+967,First Class,Bryan Spruell,Home Office,New York,East,Office Supplies,Paper,4
+968,First Class,Bryan Spruell,Home Office,New York,East,Office Supplies,Labels,4
+969,First Class,Bryan Spruell,Home Office,New York,East,Office Supplies,Storage,4
+970,Second Class,Delfina Latchford,Consumer,Pennsylvania,East,Furniture,Furnishings,3
+971,Second Class,Delfina Latchford,Consumer,Pennsylvania,East,Technology,Phones,3
+972,Second Class,Delfina Latchford,Consumer,Pennsylvania,East,Office Supplies,Binders,3
+973,Second Class,Delfina Latchford,Consumer,Pennsylvania,East,Office Supplies,Labels,3
+974,Second Class,Phillina Ober,Home Office,New York,East,Technology,Phones,3
+975,Second Class,Phillina Ober,Home Office,New York,East,Office Supplies,Binders,3
+976,Standard Class,Tamara Dahlen,Consumer,Oregon,West,Office Supplies,Binders,1
+977,First Class,Bart Watters,Corporate,Michigan,Central,Technology,Machines,4
+978,First Class,Robert Waldorf,Consumer,North Carolina,South,Office Supplies,Binders,4
+979,First Class,Ken Brennan,Corporate,Indiana,Central,Office Supplies,Paper,4
+980,Standard Class,Emily Burns,Consumer,New York,East,Furniture,Chairs,1
+981,Second Class,Tracy Zic,Consumer,Colorado,West,Office Supplies,Art,3
+982,Second Class,Tracy Zic,Consumer,Colorado,West,Technology,Phones,3
+983,Second Class,Tracy Zic,Consumer,Colorado,West,Furniture,Chairs,3
+984,Standard Class,Ann Steele,Home Office,Texas,Central,Office Supplies,Labels,1
+985,Standard Class,Ann Steele,Home Office,Texas,Central,Office Supplies,Envelopes,1
+986,Standard Class,Ann Steele,Home Office,Texas,Central,Technology,Machines,1
+987,Same Day,Toby Swindell,Consumer,Texas,Central,Office Supplies,Binders,2
+988,Standard Class,John Grady,Corporate,New York,East,Furniture,Furnishings,1
+989,Standard Class,John Grady,Corporate,New York,East,Office Supplies,Art,1
+990,Second Class,Sara Luxemburg,Home Office,Florida,South,Furniture,Chairs,3
+991,First Class,Troy Staebel,Consumer,New York,East,Office Supplies,Binders,4
+992,First Class,Roland Fjeld,Consumer,California,West,Office Supplies,Fasteners,4
+993,First Class,Roland Fjeld,Consumer,California,West,Office Supplies,Paper,4
+994,Standard Class,Mitch Willingham,Corporate,Virginia,South,Office Supplies,Binders,1
+995,Standard Class,Mitch Willingham,Corporate,Virginia,South,Technology,Phones,1
+996,Standard Class,Rob Dowd,Consumer,Kentucky,South,Office Supplies,Envelopes,1
+997,Standard Class,Rob Dowd,Consumer,Kentucky,South,Office Supplies,Storage,1
+998,Standard Class,Rob Dowd,Consumer,Kentucky,South,Furniture,Furnishings,1
