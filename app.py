@@ -2,7 +2,6 @@ import streamlit as st
 from pyvis.network import Network
 import streamlit.components.v1 as components
 import base64
-import networkx as nx
 import pandas as pd
 
 net = Network(height="750px", width="100%", bgcolor="#1a1a1a",
