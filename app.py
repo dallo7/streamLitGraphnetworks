@@ -112,19 +112,19 @@ for node in net.nodes:
     node["value"] = len(neighbor_map[node["id"]])
 
     # Save on Streamlit Sharing via Git
-    try:
-        path = '/tmp'
-        htmlFile = open(f'{path}/graphNet.html', 'r', encoding='utf-8')
-        source_code = htmlFile.read()
-        components.html(source_code, height=900, width=900)
+try:
+    path = '/tmp'
+    htmlFile = open(f'{path}/graphNet.html', 'r', encoding='utf-8')
+    source_code = htmlFile.read()
+    components.html(source_code, height=900, width=900)
 
-    # Save to local storage
-    except:
-        net.save_graph('graphNet.html')
-        htmlFile = open('graphNet.html', 'r', encoding='utf-8')
+# Save to local storage
+except:
+    net.save_graph('graphNet.html')
+    htmlFile = open('graphNet.html', 'r', encoding='utf-8')
 
-    # Load HTML file in HTML component for display on Streamlit page
-    components.html(htmlFile.read(),  height=800, width=800)
+# Load HTML file in HTML component for display on Streamlit page
+components.html(htmlFile.read(),  height=800, width=800)
 
 # Footer
 st.markdown(
