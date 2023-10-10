@@ -7,7 +7,6 @@ import pandas as pd
 net = Network(height="750px", width="100%", bgcolor="#1a1a1a",
               font_color="#00FFFF")
 
-
 # set the physics layout of the network
 net.barnes_hut()
 
@@ -35,7 +34,7 @@ img1 = "market.jpeg"
 img2 = "region.jpeg"
 img3 = "ship.jpeg"
 img4 = "states.jpeg"
-img6 = "Avatar.png"
+img6 = "face4.jpeg"
 
 
 def b64_image(image_filename):
@@ -111,11 +110,14 @@ for node in net.nodes:
     node["title"] += "\n".join(neighbor_map[node["id"]])
     node["value"] = len(neighbor_map[node["id"]])
 
-    net.save_graph('graphNet.html')
-    htmlFile = open('graphNet.html', 'r', encoding='utf-8')
+    # Save on Streamlit Sharing via Git
+    path = '/tmp'
+    htmlFile = open(f'{path}/graphNet.html', 'r', encoding='utf-8')
+    source_code = htmlFile.read()
+    components.html(source_code, height=800, width=1000)
 
-# Load HTML file in HTML component for display on Streamlit page
-components.html(htmlFile.read(),  height=800, width=800)
+    # Load HTML file in HTML component for display on Streamlit page
+components.html(htmlFile.read(),  height=800, width=1000)
 
 # Footer
 st.markdown(
