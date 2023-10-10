@@ -111,8 +111,7 @@ for node in net.nodes:
     node["value"] = len(neighbor_map[node["id"]])
 
     # Save on Streamlit Sharing via Git
-    path = '/tmp'
-    htmlFile = open(f'{path}/graphNet.html', 'r', encoding='utf-8')
+    htmlFile = open('graphNet.html', 'r', encoding='utf-8')
     source_code = htmlFile.read()
     components.html(source_code, height=800, width=1000)
 
