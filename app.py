@@ -115,7 +115,7 @@ for node in net.nodes:
     htmlFile = open('graphNet.html', 'r', encoding='utf-8')
 
 # Load HTML file in HTML component for display on Streamlit page
-components.html(htmlFile.read(),  height=800, width=1200)
+components.html(htmlFile.read(),  height=800, width=800)
 
 # Footer
 st.markdown(
