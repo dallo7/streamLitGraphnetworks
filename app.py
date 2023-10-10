@@ -2,6 +2,7 @@ import streamlit as st
 from pyvis.network import Network
 import streamlit.components.v1 as components
 import base64
+import networkx as nx
 import pandas as pd
 
 net = Network(height="750px", width="100%", bgcolor="#1a1a1a",
@@ -110,10 +111,8 @@ for node in net.nodes:
     node["title"] += "\n".join(neighbor_map[node["id"]])
     node["value"] = len(neighbor_map[node["id"]])
 
-    # Save on Streamlit Sharing via Git
+    net.save_graph('graphNet.html')
     htmlFile = open('graphNet.html', 'r', encoding='utf-8')
-    source_code = htmlFile.read()
-    components.html(source_code, height=800, width=1000)
 
     # Load HTML file in HTML component for display on Streamlit page
 components.html(htmlFile.read(),  height=800, width=1000)
