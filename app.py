@@ -35,7 +35,7 @@ img1 = "market.jpeg"
 img2 = "region.jpeg"
 img3 = "ship.jpeg"
 img4 = "states.jpeg"
-img6 = "Avatar.jpg"
+img6 = "Boki-avatar.jpg"
 
 
 def b64_image(image_filename):
