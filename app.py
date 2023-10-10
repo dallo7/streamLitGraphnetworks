@@ -5,7 +5,8 @@ import base64
 import pandas as pd
 
 net = Network(height="750px", width="100%", bgcolor="#1a1a1a",
-              font_color="#00FFFF")
+              font_color="#00FFFF", select_menu=True, filter_menu=True)
+
 
 # set the physics layout of the network
 net.barnes_hut()
@@ -114,15 +115,13 @@ for node in net.nodes:
     htmlFile = open('graphNet.html', 'r', encoding='utf-8')
 
 # Load HTML file in HTML component for display on Streamlit page
-components.html(htmlFile.read(),  height=800, width=800)
+components.html(htmlFile.read(),  height=800, width=1200)
 
 # Footer
 st.markdown(
     """
     <br>
-    <h6><a href="https://github.com/kennethleungty/Pyvis-Network-Graph-Streamlit" target="_blank">GitHub Repo</a></h6>
-    <h6><a href="https://kennethleungty.medium.com" target="_blank">Medium article</a></h6>
-    <h6>Disclaimer: This app is NOT intended to provide any form of medical advice or recommendations. Please consult your doctor or pharmacist for professional advice relating to any drug therapy.</h6>
+    <h6><a href="" target="_blank">Read about Pyviz and the Option Dash has for integrating graph analytics</a></h6>
     """, unsafe_allow_html=True
 )
 
