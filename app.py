@@ -5,7 +5,7 @@ import base64
 import pandas as pd
 
 net = Network(height="750px", width="100%", bgcolor="#1a1a1a",
-              font_color="#00FFFF", select_menu=True, filter_menu=True)
+              font_color="#00FFFF", select_menu=True)
 
 
 # set the physics layout of the network
