@@ -121,7 +121,7 @@ components.html(htmlFile.read(),  height=800, width=1000)
 st.markdown(
     """
     <br>
-    <h6><a href="" target="_blank">Read about Pyviz and the Option Dash has for integrating graph analytics</a></h6>
+    <h6><a href="https://medium.com/@cwakhusama/graph-network-analysis-4920505ffc9a" target="_blank">Read about Pyviz and the Option Dash has for integrating graph analytics</a></h6>
     """, unsafe_allow_html=True
 )
 
